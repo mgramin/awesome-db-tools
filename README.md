@@ -9,6 +9,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 ## Contents
 
 ### IDE
+- [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
 - [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 
 ### GUI Managers
