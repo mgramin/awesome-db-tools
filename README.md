@@ -13,11 +13,14 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 
 ### GUI Managers
+- [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management https://omnidb.org
 - [sqlectron-gui](https://github.com/sqlectron/sqlectron-gui) - A simple and lightweight SQL client desktop with cross database and platform support (UNMAINTAINED!).
 - [TablePlus](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 
+
 ### CLI tools
 - [sqlectron-term](https://github.com/sqlectron/sqlectron-term) - A simple and lightweight SQL client terminal-based interface with cross database and platform support.
+- [pgcenter](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
 
 ### Modelers
 - [pgmodeler](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
@@ -35,3 +38,20 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ### Backup tools
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
+
+### Scripts
+-
+
+
+### Monitoring
+
+#### Zabbix
+-[Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
+-[ZabbixDBA](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
+-[Pyora](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
+
+
+### Testing
+
+#### Data generator
+- [Databene Benerator](http://databene.org/databene-benerator) - It is a framework for generating realistic and valid high-volume test data for your system under test (avoiding the Datalite anti-pattern).
