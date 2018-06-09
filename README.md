@@ -35,10 +35,13 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 
 ### HTTP wrappers
+- [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications. It is built on top of the Laravel framework, and as such retains the requirements of the [Laravel v5.4 framework].
 - [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
 - [Prisma](https://github.com/prismagraphql/prisma) -  Prisma turns your database into a realtime GraphQL API.
 - [PostgREST](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
-- [prest](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go .
+- [prest](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
+- [restSQL](https://github.com/restsql/restsql) - Is a open-source, ultra-lightweight data access layer for HTTP clients.
+- [resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 
 ### Backup tools
 -  [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
