@@ -23,6 +23,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [pgcenter](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [sqlectron-term](https://github.com/sqlectron/sqlectron-term) - A simple and lightweight SQL client terminal-based interface with cross database and platform support.
+- [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, [and many other databases](https://github.com/xo/usql#database-support) including NoSQL and non-relational databases!
 
 ### Modelers
 - [pgmodeler](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
