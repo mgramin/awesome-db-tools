@@ -8,13 +8,15 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ## Contents
 
+
 ### IDE
 - [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
 - [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 
+
 ### GUI Managers
-- [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management https://omnidb.org
+- [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [SQL Operations Studio](https://github.com/microsoft/sqlopsstudio) -  A data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [TablePlus](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 
@@ -22,11 +24,12 @@ Feel free to add information about your own db-tools or your favorite third-part
 ### CLI tools
 - [pgcenter](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
-- [sqlectron-term](https://github.com/sqlectron/sqlectron-term) - A simple and lightweight SQL client terminal-based interface with cross database and platform support.
 - [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, [and many other databases](https://github.com/xo/usql#database-support) including NoSQL and non-relational databases!
+
 
 ### Modelers
 - [pgmodeler](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
+
 
 ### Migration tools
 - [2bass](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
@@ -34,6 +37,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [gh-ost](https://github.com/github/gh-ost) -  GitHub's online schema migration for MySQL.
 - [liquibase](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
 - [Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
+
 
 ### HTTP wrappers
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications. It is built on top of the Laravel framework, and as such retains the requirements of the [Laravel v5.4 framework].
@@ -44,16 +48,17 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [restSQL](https://github.com/restsql/restsql) - Is a open-source, ultra-lightweight data access layer for HTTP clients.
 - [resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 
+
 ### Backup tools
--  [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
+- [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 - [BaRMan](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+
 
 ### Scripts
 -
 
 
 ### Monitoring
-
 - [pgDash](https://pgdash.io/) - Measure and track every aspect of your PostgreSQL databases.
 - [pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
 
@@ -68,6 +73,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 #### Data generator
 - [Databene Benerator](http://databene.org/databene-benerator) - It is a framework for generating realistic and valid high-volume test data for your system under test (avoiding the Datalite anti-pattern).
+
 
 ### Administration
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
