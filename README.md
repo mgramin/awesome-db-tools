@@ -1,24 +1,34 @@
 # awesome-db-tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a community driven list of database tools (ide, cli, managing, monitoring, migrations, modellers, visualization etc)
-
 Here we will collect information about various db-tools such as db-IDE, db-managment tools, db-migration tools, db-metric tools, db-ops tools etc etc.
 
 Feel free to add information about your own db-tools or your favorite third-party db-tools.
 
+
 ## Contents
 
-
 ### IDE
+- [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
 - [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
 - [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
+- [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
+- [Navicat](https://www.navicat.com/en/products#navicat) - A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application.
+- [pgAdmin](https://www.pgadmin.org) - The most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 
 
-### GUI Managers
+### GUI Managers/Clients
+- [Adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
+- [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
+- [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 - [SQL Operations Studio](https://github.com/microsoft/sqlopsstudio) -  A data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [TablePlus](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
+
+
+### DB-schema navigation and visualization
+- [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
+- [Schema Spy](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
 
 
 ### CLI tools
@@ -28,6 +38,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ### Modelers
+- [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - A powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
 - [pgmodeler](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
 
 
@@ -55,13 +66,17 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ### Scripts
--
+- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
+- [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
+- [pg-utils](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
+- [postgres_dba](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
 
 
 ### Monitoring
+
+- [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - A safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible.
 - [pgDash](https://pgdash.io/) - Measure and track every aspect of your PostgreSQL databases.
 - [pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
-
 
 #### Zabbix
 - [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
@@ -78,3 +93,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 ### Administration
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
 - [pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
+
+
+### DevOps
+- [DBmaestro](https://www.dbmaestro.com) - DBmaestro accelerates release cycles & supports agility across the entire IT ecosystem.
