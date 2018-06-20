@@ -88,6 +88,8 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ### Testing
 
+- [DbFit](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+
 #### Data generator
 - [Databene Benerator](http://databene.org/databene-benerator) - It is a framework for generating realistic and valid high-volume test data for your system under test (avoiding the Datalite anti-pattern).
 
