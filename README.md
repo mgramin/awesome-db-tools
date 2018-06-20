@@ -26,15 +26,16 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [TablePlus](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 
 
-### DB-schema navigation and visualization
-- [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
-- [Schema Spy](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
-
-
 ### CLI tools
 - [pgcenter](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, [and many other databases](https://github.com/xo/usql#database-support) including NoSQL and non-relational databases!
+
+
+### DB-schema navigation and visualization
+- [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
+- [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
+- [Schema Spy](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
 
 
 ### Modelers
