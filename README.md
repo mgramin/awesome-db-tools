@@ -24,6 +24,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
 - [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
+- [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
 - [SQL Operations Studio](https://github.com/microsoft/sqlopsstudio) -  A data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [Tabix](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
 - [TablePlus](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
