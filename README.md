@@ -6,8 +6,25 @@ Here we will collect information about various db-tools such as db-IDE, db-manag
 
 Feel free to add information about your own db-tools or your favorite third-party db-tools.
 
-
 ## Contents
+
+- [IDE](#ide)
+- [GUI Managers/Clients](#gui-managersclients)
+- [CLI tools](#cli-tools)
+- [DB-schema navigation and visualization](#db-schema-navigation-and-visualization)
+- [Modelers](#modelers)
+- [Migration tools](#migration-tools)
+- [HTTP wrappers](#http-wrappers)
+- [Backup tools](#backup-tools)
+- [Replication](#replication)
+- [Scripts](#scripts)
+- [Monitoring/Statistics/Perfomance](#monitoringstatisticsperfomance)
+  - [Zabbix](#zabbix)
+- [Testing](#testing)
+  - [Data generator](#data-generator)
+- [Administration](#administration)
+- [DevOps](#devops)
+
 
 ### IDE
 - [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
@@ -117,3 +134,11 @@ Feel free to add information about your own db-tools or your favorite third-part
 ### DevOps
 - [DBmaestro](https://www.dbmaestro.com) - DBmaestro accelerates release cycles & supports agility across the entire IT ecosystem.
 - [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Toad DevOps Toolkit executes key database development functions within your DevOps workflow —without compromising quality, performance or reliability.
+
+
+## Contributing
+- Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
