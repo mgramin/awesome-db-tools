@@ -1,4 +1,6 @@
-# awesome-db-tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+# awesome-db-tools
 
 Here we will collect information about various db-tools such as db-IDE, db-managment tools, db-migration tools, db-metric tools, db-ops tools etc etc.
 
@@ -21,11 +23,11 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ### GUI Managers/Clients
 - [Adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
-- [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management
+- [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
 - [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
-- [SQL Operations Studio](https://github.com/microsoft/sqlopsstudio) -  A data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
+- [SQL Operations Studio](https://github.com/microsoft/sqlopsstudio) - A data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [Tabix](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
 - [TablePlus](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 
@@ -59,7 +61,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ### HTTP wrappers
-- [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications. It is built on top of the Laravel framework, and as such retains the requirements of the [Laravel v5.4 framework].
+- [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
 - [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
 - [Prisma](https://github.com/prismagraphql/prisma) -  Prisma turns your database into a realtime GraphQL API.
 - [PostgREST](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
@@ -73,7 +75,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [BaRMan](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
 
 ### Replication
-- [PGDeltaStream](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres' logical decoding feature.
+- [PGDeltaStream](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
 
 
 ### Scripts
@@ -87,7 +89,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 - [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - A safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible.
 - [pganalyze collector](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
-- [pgDash](https://pgdash.io/) - Measure and track every aspect of your PostgreSQL databases.
+- [pgDash](https://pgdash.io) - Measure and track every aspect of your PostgreSQL databases.
 - [PgHero](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
 - [pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
 - [pgstats](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
