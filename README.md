@@ -44,6 +44,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ### GUI Managers/Clients
 - [Adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
+- [HouseOps](https://github.com/HouseOps/HouseOps) - Enterprise ClickHouse Ops UI for you run querys, monitoring ClickHouse health and make a lot of others thinks.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
 - [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
