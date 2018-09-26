@@ -46,6 +46,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
 - [HouseOps](https://github.com/HouseOps/HouseOps) - Enterprise ClickHouse Ops UI for you run querys, monitoring ClickHouse health and make a lot of others thinks.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management.
+- [Pgweb](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on OSX, Linux and Windows machines.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
 - [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Robo 3T (formerly Robomongo) is a shell-centric cross-platform MongoDB management tool.
