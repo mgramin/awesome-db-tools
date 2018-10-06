@@ -14,7 +14,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [DB-schema navigation and visualization](#db-schema-navigation-and-visualization)
 - [Modelers](#modelers)
 - [Migration tools](#migration-tools)
-- [DDL/Model generators](#ddl/model_generators)
+- [Code generation tools](#code_generation_tools)
 - [HTTP wrappers](#http-wrappers)
 - [Backup tools](#backup-tools)
 - [Replication](#replication)
@@ -86,8 +86,9 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 
 
-### DDL/Model generators
+### Code generation tools
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
+- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - Command line util for export oracle schema to set of ddl scripts.
 
 
 ### HTTP wrappers
