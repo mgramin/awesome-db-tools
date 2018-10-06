@@ -1,6 +1,6 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 # awesome-db-tools
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Here we will collect information about various db-tools such as db-IDE, db-managment tools, db-migration tools, db-metric tools, db-ops tools etc etc.
 
@@ -82,7 +82,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 ### Migration tools
 - [2bass](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
 - [flyway](https://github.com/flyway/flyway) - Database migration tool.
-- [gh-ost](https://github.com/github/gh-ost) - GitHub's online schema migration for MySQL.
+- [gh-ost](https://github.com/github/gh-ost) - Online schema migration for MySQL.
 - [liquibase](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
 - [Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
