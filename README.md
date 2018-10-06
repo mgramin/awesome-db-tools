@@ -14,6 +14,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [DB-schema navigation and visualization](#db-schema-navigation-and-visualization)
 - [Modelers](#modelers)
 - [Migration tools](#migration-tools)
+- [DDL/Model generators](#ddl/model_generators)
 - [HTTP wrappers](#http-wrappers)
 - [Backup tools](#backup-tools)
 - [Replication](#replication)
@@ -83,6 +84,10 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [liquibase](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
 - [Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
+
+
+### DDL/Model generators
+- [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
 
 
 ### HTTP wrappers
