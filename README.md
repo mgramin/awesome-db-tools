@@ -56,6 +56,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ### CLI tools
+- [ipython-sql](https://github.com/catherinedevlin/ipython-sql) - Connect to a database for issue SQL commands within IPython or IPython Notebook.
 - [pgcenter](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
 - [pg_activity](https://github.com/julmon/pg_activity) - Top like application for PostgreSQL server activity monitoring.
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
