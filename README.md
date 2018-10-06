@@ -25,6 +25,7 @@ Feel free to add information about your own db-tools or your favorite third-part
   - [Data generator](#data-generator)
 - [Administration](#administration)
 - [DevOps](#devops)
+- [Schema samples](#schema_samples)
 
 
 ### IDE
@@ -107,6 +108,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 - [BaRMan](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
 
+
 ### Replication
 - [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
 - [PGDeltaStream](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
@@ -135,7 +137,6 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ### Testing
-
 - [DbFit](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
 
 #### Data generator
@@ -154,6 +155,10 @@ Feel free to add information about your own db-tools or your favorite third-part
 ### DevOps
 - [DBmaestro](https://www.dbmaestro.com) - DBmaestro accelerates release cycles & supports agility across the entire IT ecosystem.
 - [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Toad DevOps Toolkit executes key database development functions within your DevOps workflow —without compromising quality, performance or reliability.
+
+
+### Schema samples
+- [Oracle Database Sample Schemas](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
 
 
 ## Contributing
