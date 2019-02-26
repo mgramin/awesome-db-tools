@@ -1,6 +1,6 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Database Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-# awesome-db-tools
+> Community driven list of database tools
 
 Here we will collect information about various db-tools such as db-IDE, db-managment tools, db-migration tools, db-metric tools, db-ops tools etc etc.
 
