@@ -2,7 +2,7 @@
 
 > Community driven list of database tools
 
-Here we will collect information about various db-tools such as db-IDE, db-managment tools, db-migration tools, db-metric tools, db-ops tools etc etc.
+Here we will collect information about awesome useful and awesome experimental database tools for DBA, DevOps, Developers and mere mortals.
 
 Feel free to add information about your own db-tools or your favorite third-party db-tools.
 
