@@ -1,4 +1,4 @@
-# Awesome Database Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Database Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > Community driven list of database tools
 
@@ -25,7 +25,9 @@ Feel free to add information about your own db-tools or your favorite third-part
   - [Data generator](#data-generator)
 - [Administration](#administration)
 - [DevOps](#devops)
-- [Schema samples](#schema_samples)
+- [Schema samples](#schema-samples)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ### IDE
