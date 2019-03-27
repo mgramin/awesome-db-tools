@@ -26,6 +26,8 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Administration](#administration)
 - [DevOps](#devops)
 - [Schema samples](#schema-samples)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ### IDE
