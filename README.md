@@ -109,6 +109,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [flyway](https://github.com/flyway/flyway) - Database migration tool.
 - [gh-ost](https://github.com/github/gh-ost) - Online schema migration for MySQL.
 - [liquibase](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
+- [migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas.
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
 - [Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 
