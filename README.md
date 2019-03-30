@@ -82,6 +82,13 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database.
 - [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, [and many other databases](https://github.com/xo/usql#database-support) including NoSQL and non-relational databases!
+#### dbcli
+- [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
+- [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
+- [mssql-cli](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
+- [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
+- [vcli](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
 
 
 ### DB-schema navigation and visualization
