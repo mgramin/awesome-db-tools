@@ -171,6 +171,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
 - [pgbadger](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
 - [pgbedrock](https://github.com/Squarespace/pgbedrock) - Manage a Postgres cluster's roles, role memberships, schema ownership, and privileges.
+- [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 - [pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 
 
