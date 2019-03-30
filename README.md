@@ -53,6 +53,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ### GUI Managers/Clients
 - [Adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
+- [DbVisualizer](https://www.dbvis.com) - Universal database tool for developers, DBAs and analysts.
 - [HouseOps](https://github.com/HouseOps/HouseOps) - Enterprise ClickHouse Ops UI for you run querys, monitoring ClickHouse health and make a lot of others thinks.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 - [Pgweb](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
