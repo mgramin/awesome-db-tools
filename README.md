@@ -31,6 +31,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ### IDE
+- [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
 - [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
 - [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
 - [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
