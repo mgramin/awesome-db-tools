@@ -128,6 +128,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ### Replication/Data operation
+- [Datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 - [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
 - [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
 - [PGDeltaStream](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
