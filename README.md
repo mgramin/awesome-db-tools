@@ -153,6 +153,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
 - [pg-utils](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
 - [postgres_dba](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
+- [postgres_queries_and_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
 
 
 ### Monitoring/Statistics/Perfomance
