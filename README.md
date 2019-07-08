@@ -153,6 +153,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ### Monitoring/Statistics/Perfomance
+- [Mamonsu](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
 - [Monyog](https://www.webyog.com/product/monyog) - Agentless & Cost-effective MySQL Monitoring Tool.
 - [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - A safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible.
 - [pganalyze collector](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
