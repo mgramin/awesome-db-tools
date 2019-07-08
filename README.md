@@ -189,6 +189,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [pgbedrock](https://github.com/Squarespace/pgbedrock) - Manage a Postgres cluster's roles, role memberships, schema ownership, and privileges.
 - [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 - [pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
+- [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
 
 ### DevOps
