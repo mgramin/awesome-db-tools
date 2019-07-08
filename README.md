@@ -26,7 +26,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Administration](#administration)
 - [DevOps](#devops)
 - [Schema samples](#schema-samples)
-- [Reporting](###reporting)
+- [Reporting](#reporting)
 - [Contributing](#contributing)
 - [License](#license)
 
