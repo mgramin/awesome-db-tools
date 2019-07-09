@@ -154,6 +154,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [pg-utils](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
 - [postgres_dba](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
 - [postgres_queries_and_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
+- [TPT](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
 
 
 ### Monitoring/Statistics/Perfomance
