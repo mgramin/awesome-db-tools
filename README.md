@@ -177,6 +177,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 #### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
 - [Orabbix](http://www.smartmarmot.com/wiki/index.php?title=Orabbix) - Orabbix is a plugin designed to work with Zabbix Enterprise Monitor to provide multi-tiered monitoring, performance and availability reporting and measurement for Oracle Databases, along with server performance metrics.
+- [pg_monz](https://github.com/pg-monz/pg_monz) - This is the Zabbix monitoring template for PostgreSQL Database.
 - [Pyora](https://github.com/bicofino/Pyora) - Python script to monitor Oracle Databases.
 - [ZabbixDBA](https://github.com/anetrusov/ZabbixDBA) - ZabbixDBA is fast, flexible, and continuously developing plugin to monitor your RDBMS.
 
