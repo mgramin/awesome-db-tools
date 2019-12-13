@@ -14,7 +14,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [DB-schema navigation and visualization](#db-schema-navigation-and-visualization)
 - [Modelers](#modelers)
 - [Migration tools](#migration-tools)
-- [Code generation tools](#code_generation_tools)
+- [Code generation tools](#code-generation-tools)
 - [HTTP wrappers](#http-wrappers)
 - [Backup tools](#backup-tools)
 - [Replication](#replication)
