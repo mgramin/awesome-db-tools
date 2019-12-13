@@ -24,6 +24,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Testing](#testing)
   - [Data generator](#data-generator)
 - [Administration](#administration)
+- [Configuration Tuning](#configuration-tuning)
 - [DevOps](#devops)
 - [Schema samples](#schema-samples)
 - [Reporting](#reporting)
@@ -199,6 +200,10 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 - [pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 - [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+
+
+### Configuration Tuning
+- [PGConfigurator](https://pgconfigurator.cybertec-postgresql.com/) - Free online tool to generate an optimized `postgresql.conf`
 
 
 ### DevOps
