@@ -15,7 +15,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Modelers](#modelers)
 - [Migration tools](#migration-tools)
 - [Code generation tools](#code-generation-tools)
-- [HTTP wrappers](#http-wrappers)
+- [Wrappers](#wrappers)
 - [Backup tools](#backup-tools)
 - [Replication](#replication)
 - [Scripts](#scripts)
@@ -24,6 +24,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Testing](#testing)
   - [Data generator](#data-generator)
 - [Administration](#administration)
+- [HA/Failover/Sharding](hafailoversharding)
 - [Configuration Tuning](#configuration-tuning)
 - [DevOps](#devops)
 - [Schema samples](#schema-samples)
@@ -150,6 +151,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
 - [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
 - [PGDeltaStream](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
+- [repmgr](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
 
 
 ### Scripts
@@ -164,6 +166,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 ### Monitoring/Statistics/Perfomance
 - [Monyog](https://www.webyog.com/product/monyog) - Agentless & Cost-effective MySQL Monitoring Tool.
 - [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - A safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible.
+- [Percona Monitoring and Management](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
 - [pganalyze collector](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
 - [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - New-generation diagnostics tool that allows users to do a deep analysis of the health of Postgres databases.
 - [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
@@ -194,16 +197,32 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ### Administration
-- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
 - [pgbadger](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
 - [pgbedrock](https://github.com/Squarespace/pgbedrock) - Manage a Postgres cluster's roles, role memberships, schema ownership, and privileges.
 - [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
-- [pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
+
+
+### HA/Failover/Sharding
+- [Citus](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
+- [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
+- [Percona XtraDB Cluster](https://github.com/percona/percona-xtradb-cluster) - A High Scalability Solution for MySQL Clustering and High Availability.
+- [stolon](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
+- [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
+- [pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
+- [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
 - [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+
+
+### Kubernetes
+- [KubeDB](https://kubedb.com) - Making running production-grade databases easy on Kubernetes.
+- [Postgres operator](https://github.com/zalando/postgres-operator) - The Postgres Operator enables highly-available PostgreSQL clusters on Kubernetes (K8s) powered by Patroni.
+- [Spilo](https://github.com/zalando/spilo) - HA PostgreSQL Clusters with Docker.
+- [StackGres](https://gitlab.com/ongresinc/stackgres) - Enterprise-grade, Full Stack PostgreSQL on Kubernetes.
 
 
 ### Configuration Tuning
 - [PGConfigurator](https://pgconfigurator.cybertec-postgresql.com/) - Free online tool to generate an optimized `postgresql.conf`
+- [pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 
 
 ### DevOps
