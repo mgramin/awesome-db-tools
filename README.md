@@ -1,6 +1,6 @@
-# Awesome Database Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
 > Community driven list of database tools
+
+# Awesome Database Tools [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re/badge-flat.svg)
 
 Here we will collect information about awesome useful and awesome experimental tools that simplify working with databases for DBA, DevOps, Developers and mere mortals.
 
@@ -89,6 +89,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database.
 - [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, [and many other databases](https://github.com/xo/usql#database-support) including NoSQL and non-relational databases!
+
 #### dbcli
 - [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
 - [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting.
@@ -221,7 +222,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ### Configuration Tuning
-- [PGConfigurator](https://pgconfigurator.cybertec-postgresql.com/) - Free online tool to generate an optimized `postgresql.conf`
+- [PGConfigurator](https://pgconfigurator.cybertec-postgresql.com) - Free online tool to generate an optimized `postgresql.conf`
 - [pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 
 
