@@ -2,7 +2,7 @@
 
 > Community driven list of database tools
 
-Here we will collect information about awesome useful and awesome experimental database tools for DBA, DevOps, Developers and mere mortals.
+Here we will collect information about awesome useful and awesome experimental tools that simplify working with databases for DBA, DevOps, Developers and mere mortals.
 
 Feel free to add information about your own db-tools or your favorite third-party db-tools.
 
