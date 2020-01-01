@@ -135,7 +135,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Prisma](https://github.com/prismagraphql/prisma) -  Prisma turns your database into a realtime GraphQL API.
 - [PostgREST](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
 - [prest](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
-- [restSQL](https://github.com/restsql/restsql) - Is a open-source, ultra-lightweight data access layer for HTTP clients.
+- [restSQL](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 - [resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 - [sql-boot](https://github.com/CrocInc/sql-boot) - Advanced REST and UI wrapper for your SQL-queries.
 
