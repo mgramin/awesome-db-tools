@@ -123,7 +123,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ### Code generation tools
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
-- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - Command line util for export oracle schema to set of ddl scripts.
+- [scheme2ddl](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
 
 
 ### Wrappers
