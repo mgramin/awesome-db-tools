@@ -31,7 +31,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Reporting](#reporting)
 - [Distributions](#distributions)
 - [Security](#security)
-- [Code formatters](code-formatters)
+- [Code formatters](#code-formatters)
 
 
 ## IDE
