@@ -30,6 +30,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Schema samples](#schema-samples)
 - [Reporting](#reporting)
 - [Distributions](#distributions)
+- [Security](#security)
 
 
 ## IDE
@@ -251,6 +252,10 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
 - [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of Postgres.
 - [Elephant Shed](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
+
+
+## Security
+- [Acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
 
 
 ## Contributing
