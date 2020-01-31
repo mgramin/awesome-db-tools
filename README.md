@@ -1,4 +1,4 @@
-# Awesome Database Tools [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Database Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Community driven list of database tools
 
@@ -30,6 +30,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Schema samples](#schema-samples)
 - [Reporting](#reporting)
 - [Distributions](#distributions)
+
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
