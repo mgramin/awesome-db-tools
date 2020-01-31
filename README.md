@@ -190,6 +190,8 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ## Testing
 - [DbFit](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
+- [RegreSQL](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
+
 
 ### Data generator
 - [Databene Benerator](https://sourceforge.net/projects/benerator) - It is a framework for generating realistic and valid high-volume test data for your system under test (avoiding the Datalite anti-pattern).
