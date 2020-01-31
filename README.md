@@ -31,6 +31,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Reporting](#reporting)
 - [Distributions](#distributions)
 - [Security](#security)
+- [Code formatters](code-formatters)
 
 
 ## IDE
@@ -256,6 +257,10 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ## Security
 - [Acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
+
+
+## Code formatters
+- [CodeBuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
 
 
 ## Contributing
