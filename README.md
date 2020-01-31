@@ -233,6 +233,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ## Configuration Tuning
+- [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl) - Script written in Perl that allows you to review a MySQL installation quickly and make adjustments to increase performance and stability.
 - [PGConfigurator](https://pgconfigurator.cybertec-postgresql.com) - Free online tool to generate an optimized `postgresql.conf`.
 - [pgtune](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 - [postgresqltuner.pl](https://github.com/jfcoz/postgresqltuner) - Simple script to analyse your PostgreSQL database configuration, and give tuning advice.
