@@ -250,6 +250,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ## Distributions
 - [DBdeployer](https://github.com/datacharmer/dbdeployer) - Tool that deploys MySQL database servers easily.
+-[dbatools](https://github.com/sqlcollaborative/dbatools) - PowerShell module that you may think of like a command-line SQL Server Management Studio.
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
 - [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of Postgres.
 - [Elephant Shed](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
