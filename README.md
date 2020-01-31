@@ -29,6 +29,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [DevOps](#devops)
 - [Schema samples](#schema-samples)
 - [Reporting](#reporting)
+- [Distributions](#distributions)
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
@@ -234,6 +235,12 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ## Reporting
 - [Poli](https://github.com/shzlw/poli) - An easy-to-use SQL reporting application built for SQL lovers.
+
+
+### Distributions
+- [Postgres.app](https://github.com/PostgresApp/PostgresApp) - Full-featured PostgreSQL installation packaged as a standard Mac app.
+- [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of Postgres.
+- [Elephant Shed](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
 
 
 ## Contributing
