@@ -79,6 +79,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [sqlpad](https://github.com/rickbergfalk/sqlpad) - Web-based SQL editor run in your own private cloud.
 - [SQLPro](https://www.macpostgresclient.com) - A simple, powerful Postgres manager for macOS.
 - [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - Graphical SQL client written in Java that will allow you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc.
+- [SQLTools](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
 - [SQLyog](https://www.webyog.com/product/sqlyog) - The most complete and easy to use MySQL GUI.
 - [Tabix](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
 - [TablePlus](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
