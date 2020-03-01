@@ -109,6 +109,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 - [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
 - [Schema Spy](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
+- [tbls](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
 
 
 ## Modelers
