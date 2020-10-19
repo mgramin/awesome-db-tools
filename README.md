@@ -139,7 +139,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ## Wrappers
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
-- [FBSQL Frontend Backend SQL](https://fbsql.github.io) - Work (secure) with your backend database within HTML.
+- [FBSQL Frontend Backend SQL](https://github.com/fbsql/fbsql) - Work (secure) with your backend database within HTML.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [jl-sql](https://github.com/avz/jl-sql) - SQL for JSON and CSV streams.
 - [mysql_fdw](https://github.com/EnterpriseDB/mysql_fdw) - PostgreSQL foreign data wrapper for MySQL.
