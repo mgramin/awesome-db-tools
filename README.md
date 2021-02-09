@@ -270,6 +270,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ## Security
 - [Acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
+- [Databunker](https://databunker.org/) - Secure personal data or PII storage build on top of regular DB. The product comes with full GDPR compliance.
 
 
 ## Code formatters
