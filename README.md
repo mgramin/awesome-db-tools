@@ -19,6 +19,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Replication/Data operation](#replicationdata-operation)
 - [Scripts](#scripts)
 - [Monitoring/Statistics/Perfomance](#monitoringstatisticsperfomance)
+  - [Prometheus](#prometheus)
   - [Zabbix](#zabbix)
 - [Testing](#testing)
   - [Data generator](#data-generator)
