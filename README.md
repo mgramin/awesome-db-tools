@@ -186,7 +186,6 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
 - [pganalyze collector](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
 - [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - New-generation diagnostics tool that allows users to do a deep analysis of the health of Postgres databases.
-- [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 - [pgDash](https://pgdash.io) - Measure and track every aspect of your PostgreSQL databases.
 - [PgHero](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
 - [pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
@@ -194,6 +193,10 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [pgstats](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
 - [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - Provides metrics for your postgres database.
+
+### Prometheus
+- [pgSCV](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
+- [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
 
 ### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
