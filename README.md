@@ -150,6 +150,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [prest](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
 - [restSQL](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 - [resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
+- [Saltcorn](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 - [sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
 - [sql-boot](https://github.com/CrocInc/sql-boot) - Advanced REST and UI wrapper for your SQL-queries.
 
