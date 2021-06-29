@@ -97,6 +97,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database.
 - [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, [and many other databases](https://github.com/xo/usql#database-support) including NoSQL and non-relational databases!
+- [Weaviate CLI](https://www.semi.technology/developers/weaviate/current/client-libraries/cli.html) - A CLI tool to interact with a [Weaviate](https://github.com/semi-technologies/weaviate) instance.
 
 ### dbcli
 - [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
@@ -261,6 +262,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 ## Schema samples
 - [Oracle Database Sample Schemas](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
+- [Weaviate examples](https://github.com/semi-technologies/weaviate-examples) - A list of schemas and datasets for the [Weaviate](https://github.com/semi-technologies/weaviate) vector search engine.
 
 
 ## Reporting
