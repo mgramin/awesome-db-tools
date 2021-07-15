@@ -264,6 +264,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 
 ## Reporting
+- [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from multiple databases and services.
 - [Poli](https://github.com/shzlw/poli) - An easy-to-use SQL reporting application built for SQL lovers.
 
 
