@@ -68,6 +68,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [HouseOps](https://github.com/HouseOps/HouseOps) - Enterprise ClickHouse Ops UI for you run querys, monitoring ClickHouse health and make a lot of others thinks.
 - [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
 - [Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
+- [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 - [Pgweb](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
 - [phpLiteAdmin](https://www.phpliteadmin.org) - Web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2.
