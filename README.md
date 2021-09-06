@@ -79,6 +79,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 - [SQL Operations Studio](https://github.com/microsoft/sqlopsstudio) - A data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - Graphical interface supports all SQLite features.
+- [sqlite-tui](https://github.com/mathaou/sqlite-tui) - A TUI for viewing sqlite databases, written in Go.
 - [sqlpad](https://github.com/rickbergfalk/sqlpad) - Web-based SQL editor run in your own private cloud.
 - [SQLPro](https://www.macpostgresclient.com) - A simple, powerful Postgres manager for macOS.
 - [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - Graphical SQL client written in Java that will allow you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc.
