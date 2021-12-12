@@ -40,6 +40,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 - [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Aqua Data Studio is productivity software for Database Developers, DBAs, and Analysts.
 - [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
 - [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
+- [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 - [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - Universal IDE for MySQL and MariaDB database development, management, and administration.
 - [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - Powerful IDE for Oracle management, administration, and development.
