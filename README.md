@@ -6,6 +6,8 @@ Here we will collect information about awesome useful and awesome experimental t
 
 Feel free to add information about your own db-tools or your favorite third-party db-tools.
 
+For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL follow me at [@mgramin](https://twitter.com/GraminMaksim)
+
 ## Contents
 - [IDE](#ide)
 - [GUI Managers/Clients](#gui-managersclients)
