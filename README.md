@@ -34,7 +34,12 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Reporting](#reporting)
 - [Distributions](#distributions)
 - [Security](#security)
-- [Code formatters](#code-formatters)
+- [SQL](#sql)
+  - [Analyzers](#analyzers)
+  - [Extensions](#extensions)
+  - [Frameworks](#frameworks)
+  - [Formatters](#formatters)
+  - [Parsers](#parsers)
 
 
 ## IDE
@@ -290,8 +295,27 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Databunker](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
 
 
-## Code formatters
-- [CodeBuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
+## SQL
+
+### Analyzers
+  - [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
+  - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
+
+### Extensions
+  - [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
+
+### Frameworks
+  - [Apache Calcite](https://calcite.apache.org) - Dynamic data management framework with advanced SQL features.
+  - [ZetaSQL](https://github.com/google/zetasql) - Analyzer Framework for SQL.
+
+### Formatters
+  - [CodeBuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
+  - [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
+
+### Parsers
+  - [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
+  - [JSqlParser](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
+  - [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 
 
 ## Contributing
