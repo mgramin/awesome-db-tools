@@ -17,7 +17,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Migration tools](#migration-tools)
 - [Code generation tools](#code-generation-tools)
 - [Wrappers](#wrappers)
-- [Backup tools](#backup-tools)
+- [Backup/Cloning tools](#backup-cloning-tools)
 - [Replication/Data operation](#replicationdata-operation)
 - [Scripts](#scripts)
 - [Monitoring/Statistics/Perfomance](#monitoringstatisticsperfomance)
@@ -149,6 +149,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Sqitch](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 - [yuniql](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
+
 ## Code generation tools
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
 - [scheme2ddl](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
@@ -171,9 +172,10 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [sql-boot](https://github.com/CrocInc/sql-boot) - Advanced REST and UI wrapper for your SQL-queries.
 
 
-## Backup tools
+## Backup/Cloning tools
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 - [BaRMan](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+- [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for Postgres to scale the development process.
 
 
 ## Replication/Data operation
