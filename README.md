@@ -17,7 +17,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Migration tools](#migration-tools)
 - [Code generation tools](#code-generation-tools)
 - [Wrappers](#wrappers)
-- [Backup/Cloning tools](#backup-cloning-tools)
+- [Backup/Cloning tools](#backupcloning-tools)
 - [Replication/Data operation](#replicationdata-operation)
 - [Scripts](#scripts)
 - [Monitoring/Statistics/Perfomance](#monitoringstatisticsperfomance)
@@ -173,9 +173,9 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 
 ## Backup/Cloning tools
-- [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
-- [BaRMan](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
 - [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for Postgres to scale the development process.
+- [BaRMan](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
+- [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 
 
 ## Replication/Data operation
