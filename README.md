@@ -40,7 +40,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Frameworks](#frameworks)
   - [Formatters](#formatters)
   - [Parsers](#parsers)
-
+- [Language Server Protocol](#lsp)
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
@@ -318,6 +318,11 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [JSqlParser](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
   - [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
   - [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
+
+
+## Language Server Protocol
+- [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL Language Server.
+- [sqls](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
 
 ## Contributing
