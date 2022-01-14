@@ -78,6 +78,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
 - [Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 - [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
+- [ocelotgui](https://github.com/ocelot-inc/ocelotgui) - For MySQL, MariaDB, and Tarantool. Developed for Linux but can run on Windows.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 - [Pgweb](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
 - [phpLiteAdmin](https://www.phpliteadmin.org) - Web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2.
