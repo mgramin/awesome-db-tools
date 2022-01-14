@@ -319,6 +319,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ### Parsers
   - [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
+  - [jOOQ](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
   - [JSqlParser](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
   - [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
   - [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
