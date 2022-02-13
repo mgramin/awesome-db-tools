@@ -307,6 +307,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ### Analyzers
 - [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
+- [TSQLLint](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
 
 ### Extensions
 - [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
