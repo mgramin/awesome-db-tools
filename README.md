@@ -40,7 +40,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Frameworks](#frameworks)
   - [Formatters](#formatters)
   - [Parsers](#parsers)
-- [Language Server Protocol](#lsp)
+- [Language Server Protocol](#language-server-protocol)
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
@@ -111,7 +111,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [pspg](https://github.com/okbob/pspg) - Postgres Pager.
 - [SQLcl](http://www.oracle.com/technetwork/developer-tools/sqlcl/overview/index.html) - Oracle SQL Developer Command Line (SQLcl) is a free command line interface for Oracle Database.
 - [SQLLine](https://github.com/julianhyde/sqlline) - Command-line shell for issuing SQL to relational databases via JDBC.
-- [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, [and many other databases](https://github.com/xo/usql#database-support) including NoSQL and non-relational databases!
+- [usql](https://github.com/xo/usql) - A universal command-line interface for PostgreSQL, MySQL, Oracle Database, SQLite3, Microsoft SQL Server, and many other databases including NoSQL and non-relational databases!
 
 ### dbcli
 - [athenacli](https://github.com/dbcli/athenacli) - AthenaCLI is a CLI tool for AWS Athena service that can do auto-completion and syntax highlighting.
@@ -305,27 +305,27 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ## SQL
 
 ### Analyzers
-  - [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
-  - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
+- [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
+- [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
 
 ### Extensions
-  - [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
+- [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
 
 ### Frameworks
-  - [Apache Calcite](https://calcite.apache.org) - Dynamic data management framework with advanced SQL features.
-  - [ZetaSQL](https://github.com/google/zetasql) - Analyzer Framework for SQL.
+- [Apache Calcite](https://calcite.apache.org) - Dynamic data management framework with advanced SQL features.
+- [ZetaSQL](https://github.com/google/zetasql) - Analyzer Framework for SQL.
 
 ### Formatters
-  - [CodeBuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
-  - [pgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
-  - [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
+- [CodeBuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
+- [pgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
+- [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
 
 ### Parsers
-  - [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
-  - [jOOQ](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
-  - [JSqlParser](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
-  - [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
-  - [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
+- [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
+- [jOOQ](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
+- [JSqlParser](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
+- [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
+- [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 
 
 ## Language Server Protocol
