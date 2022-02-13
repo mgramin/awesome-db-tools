@@ -318,6 +318,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ### Formatters
 - [CodeBuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
 - [pgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
+- [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting. 
 - [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
 
 ### Parsers
