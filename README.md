@@ -171,7 +171,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 - [Saltcorn](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 - [sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
-- [sql-boot](https://github.com/CrocInc/sql-boot) - Advanced REST and UI wrapper for your SQL-queries.
 
 
 ## Backup/Cloning tools
