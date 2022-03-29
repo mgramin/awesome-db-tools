@@ -40,6 +40,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Frameworks](#frameworks)
   - [Formatters](#formatters)
   - [Parsers](#parsers)
+  - [Über SQL](#über-sql)
 - [Language Server Protocol](#language-server-protocol)
 
 ## IDE
@@ -328,6 +329,14 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [JSqlParser](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
 - [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
+
+### Über SQL
+Running SQL queries against various databases, structured text, etc.
+- [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
+- [dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
+- [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+- [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
+- [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
 
 
 ## Language Server Protocol
