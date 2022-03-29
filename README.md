@@ -42,6 +42,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Parsers](#parsers)
   - [Über SQL](#über-sql)
   - [Language Server Protocol](#language-server-protocol)
+- [Papers](#papers)
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
@@ -341,6 +342,11 @@ Running SQL queries against various databases, structured text, etc.
 ### Language Server Protocol
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL Language Server.
 - [sqls](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+
+
+## Papers
+Documents, articles, manifestos and other theoretical materials on database tools
+- [The "Database as Code" Manifesto](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
 
 ## Contributing
