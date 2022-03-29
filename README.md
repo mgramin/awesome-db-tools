@@ -40,7 +40,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Frameworks](#frameworks)
   - [Formatters](#formatters)
   - [Parsers](#parsers)
-  - [Über SQL](übersql)
+  - [Über SQL](über-sql)
 - [Language Server Protocol](#language-server-protocol)
 
 ## IDE
