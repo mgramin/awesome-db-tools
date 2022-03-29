@@ -41,7 +41,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Formatters](#formatters)
   - [Parsers](#parsers)
   - [Über SQL](#über-sql)
-- [Language Server Protocol](#language-server-protocol)
+  - [Language Server Protocol](#language-server-protocol)
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
@@ -338,8 +338,7 @@ Running SQL queries against various databases, structured text, etc.
 - [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
 
-
-## Language Server Protocol
+### Language Server Protocol
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL Language Server.
 - [sqls](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
 
