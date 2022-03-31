@@ -342,7 +342,8 @@ Low-code and no-code platforms for application building
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 
 ### Über SQL
-Running SQL queries against various databases, structured text, etc.
+Run SQL queries against anything
+- [CloudQuery](https://github.com/cloudquery/cloudquery) - Extracts, transforms, and loads your cloud assets into normalized PostgreSQL tables.
 - [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
 - [dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
