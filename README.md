@@ -187,6 +187,7 @@ Building API for your Data
 
 ## Cloning
 - [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for Postgres to scale the development process.
+- [clone_schema](https://github.com/denishpatel/pg-clone-schema) - Postgres clone schema utility without need of going outside of database.
 - [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 
