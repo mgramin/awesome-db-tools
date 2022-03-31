@@ -347,6 +347,7 @@ Run SQL queries against anything
 - [csvq](https://github.com/mithrandie/csvq) - SQL-like query language for CSV.
 - [dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+- [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
 - [Steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
 - [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
