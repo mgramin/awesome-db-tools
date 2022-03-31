@@ -20,7 +20,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [API](#api)
 - [Backup](#backup)
 - [Cloning](#cloning)
-- [Replication/Data operation](#replicationdata-operation)
+- [Replication](#replication)
 - [Scripts](#scripts)
 - [Monitoring/Statistics/Perfomance](#monitoringstatisticsperfomance)
   - [Prometheus](#prometheus)
@@ -167,7 +167,8 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 
 ## API
-Building API for your DB
+Building API for your Data
+- [Datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 - [DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory) - A open source REST API backend for mobile, web, and IoT applications.
 - [Hasura GraphQL Engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.
 - [Oracle REST Data Services](http://www.oracle.com/technetwork/developer-tools/rest-data-services) - A mid-tier Java application, ORDS maps HTTP(S) verbs (GET, POST, PUT, DELETE, etc.) to database transactions and returns any results formatted using JSON.
@@ -188,8 +189,7 @@ Building API for your DB
 - [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 
-## Replication/Data operation
-- [Datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
+## Replication
 - [dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
 - [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
