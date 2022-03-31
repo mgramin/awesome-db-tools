@@ -18,6 +18,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Code generation tools](#code-generation-tools)
 - [Wrappers](#wrappers)
 - [API](#api)
+- [Application platforms](#application-platforms)
 - [Backup](#backup)
 - [Cloning](#cloning)
 - [Replication](#replication)
@@ -163,7 +164,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ## Wrappers
 - [mysql_fdw](https://github.com/EnterpriseDB/mysql_fdw) - PostgreSQL foreign data wrapper for MySQL.
-- [Saltcorn](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 
 
 ## API
@@ -178,6 +178,12 @@ Building API for your Data
 - [restSQL](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 - [resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 - [sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
+
+
+## Application platforms
+Low-code and no-code platforms for application building
+- [Budibase](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
+- [Saltcorn](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 
 
 ## Backup
