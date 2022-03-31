@@ -184,6 +184,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ## Replication/Data operation
 - [Datasette](https://github.com/simonw/datasette) - A tool for exploring and publishing data.
 - [dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
+- [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
 - [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
 - [PGDeltaStream](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
