@@ -16,7 +16,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Modelers](#modelers)
 - [Migration tools](#migration-tools)
 - [Code generation tools](#code-generation-tools)
-- [Wrappers](#wrappers)
 - [API](#api)
 - [Application platforms](#application-platforms)
 - [Backup](#backup)
@@ -160,10 +159,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ## Code generation tools
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
 - [scheme2ddl](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
-
-
-## Wrappers
-- [mysql_fdw](https://github.com/EnterpriseDB/mysql_fdw) - PostgreSQL foreign data wrapper for MySQL.
 
 
 ## API
