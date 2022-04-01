@@ -192,15 +192,6 @@ Low-code and no-code platforms for application building
 - [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 
-## Replication
-- [dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
-- [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
-- [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
-- [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
-- [PGDeltaStream](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
-- [repmgr](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
-
-
 ## Scripts
 - [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
 - [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
@@ -355,6 +346,17 @@ Run SQL queries against anything
 ### Language Server Protocol
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL Language Server.
 - [sqls](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+
+
+## Data
+
+### Replication
+- [dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
+- [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
+- [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
+- [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - MySQL to PostgreSQL replica system written in Python 3. The system use the library mysql-replication to pull the row images from MySQL which are stored into PostgreSQL as JSONB.
+- [PGDeltaStream](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
+- [repmgr](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
 
 
 ## Papers
