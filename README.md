@@ -20,7 +20,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Application platforms](#application-platforms)
 - [Backup](#backup)
 - [Cloning](#cloning)
-- [Replication](#replication)
 - [Scripts](#scripts)
 - [Monitoring/Statistics/Perfomance](#monitoringstatisticsperfomance)
   - [Prometheus](#prometheus)
@@ -44,6 +43,8 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Parsers](#parsers)
   - [Über SQL](#über-sql)
   - [Language Server Protocol](#language-server-protocol)
+- [Data](#data)
+  - [Replication](#replication) 
 - [Papers](#papers)
 
 ## IDE
