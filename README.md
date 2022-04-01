@@ -350,6 +350,7 @@ Run SQL queries against anything
 
 
 ## Data
+- [dbt](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
 
 ### Replication
 - [dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
