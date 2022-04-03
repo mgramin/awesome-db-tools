@@ -11,7 +11,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ## Contents
 - [IDE](#ide)
 - [GUI](#gui)
-- [CLI tools](#cli-tools)
+- [CLI](#cli)
 - [DB-schema navigation and visualization](#db-schema-navigation-and-visualization)
 - [Modelers](#modelers)
 - [Migration tools](#migration-tools)
@@ -107,7 +107,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web Administration GUI - use your PostgreSQL databases from anywhere, with rich, lightning-fast AJAX web interface.
 
 
-## CLI tools
+## CLI
 - [ipython-sql](https://github.com/catherinedevlin/ipython-sql) - Connect to a database for issue SQL commands within IPython or IPython Notebook.
 - [iredis](https://github.com/laixintao/iredis) - A Cli for Redis with AutoCompletion and Syntax Highlighting.
 - [pgcenter](https://github.com/lesovsky/pgcenter) - Top-like admin tool for PostgreSQL.
