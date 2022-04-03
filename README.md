@@ -132,6 +132,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ### Changes
 - [2bass](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
+- [Atlas](https://github.com/ariga/atlas) - Inspect and Apply changes to your database schema.
 - [Bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 - [flyway](https://github.com/flyway/flyway) - Database migration tool.
 - [gh-ost](https://github.com/github/gh-ost) - Online schema migration for MySQL.
