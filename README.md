@@ -10,7 +10,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ## Contents
 - [IDE](#ide)
-- [GUI Managers/Clients](#gui-managersclients)
+- [GUI](#gui)
 - [CLI tools](#cli-tools)
 - [DB-schema navigation and visualization](#db-schema-navigation-and-visualization)
 - [Modelers](#modelers)
@@ -75,7 +75,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE.
 
 
-## GUI Managers/Clients
+## GUI
 - [Adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 - [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
