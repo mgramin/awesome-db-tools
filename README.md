@@ -241,6 +241,7 @@ Low-code and no-code platforms for application building
 ## Testing
 - [DbFit](https://github.com/dbfit/dbfit) - A database testing framework that supports easy test-driven development of your database code.
 - [RegreSQL](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
+- [SQLancer](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
 
 
 ## Administration
