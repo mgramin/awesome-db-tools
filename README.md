@@ -28,7 +28,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Prometheus](#prometheus)
   - [Zabbix](#zabbix)
 - [Testing](#testing)
-- [Administration](#administration)
 - [HA/Failover/Sharding](#hafailoversharding)
 - [Kubernetes](#kubernetes)
 - [Configuration Tuning](#configuration-tuning)
@@ -224,6 +223,7 @@ Low-code and no-code platforms for application building
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
 - [pganalyze collector](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
 - [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - New-generation diagnostics tool that allows users to do a deep analysis of the health of Postgres databases.
+- [pgbadger](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
 - [pgDash](https://pgdash.io) - Measure and track every aspect of your PostgreSQL databases.
 - [PgHero](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
 - [pgmetrics](https://github.com/rapidloop/pgmetrics) - Collect and display information and stats from a running PostgreSQL server.
@@ -250,11 +250,6 @@ Low-code and no-code platforms for application building
 - [SQLancer](https://github.com/sqlancer/sqlancer) - Automatically test DBMS in order to find logic bugs in their implementation.
 
 
-## Administration
-- [pgbadger](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
-- [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
-
-
 ## HA/Failover/Sharding
 - [Citus](https://github.com/citusdata/citus) - Postgres extension that distributes your data and your queries across multiple nodes.
 - [patroni](https://github.com/zalando/patroni) - A template for PostgreSQL High Availability with ZooKeeper, etcd, or Consul.
@@ -262,6 +257,7 @@ Low-code and no-code platforms for application building
 - [stolon](https://github.com/sorintlab/stolon) - Cloud native PostgreSQL manager for PostgreSQL high availability.
 - [pg_auto_failover](https://github.com/citusdata/pg_auto_failover) - Postgres extension and service for automated failover and high-availability.
 - [pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
+- [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 - [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
 - [postgresql_cluster](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
 - [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
