@@ -12,10 +12,13 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [IDE](#ide)
 - [GUI](#gui)
 - [CLI](#cli)
-- [DB-schema navigation and visualization](#db-schema-navigation-and-visualization)
-- [Modelers](#modelers)
-- [Migration tools](#migration-tools)
-- [Code generation tools](#code-generation-tools)
+- [Schema](#schema)
+  - [Changes](#changes)
+  - [Code generation](#code-generation)
+  - [Diagrams](#diagrams)
+  - [Documentations](#documentations)
+  - [Modelers](#modelers)
+  - [Samples](#samples)
 - [API](#api)
 - [Application platforms](#application-platforms)
 - [Backup](#backup)
@@ -30,7 +33,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Kubernetes](#kubernetes)
 - [Configuration Tuning](#configuration-tuning)
 - [DevOps](#devops)
-- [Schema samples](#schema-samples)
 - [Reporting](#reporting)
 - [Distributions](#distributions)
 - [Security](#security)
@@ -126,22 +128,9 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [vcli](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
 
 
-## DB-schema navigation and visualization
-- [dbdiagram.io](https://dbdiagram.io) - Quick and simple tool for help you draw your database relationship diagrams and flow quickly using simple DSL language.
-- [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
-- [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
-- [Schema Spy](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
-- [tbls](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
+## Schema
 
-
-## Modelers
-- [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler) - Easy-to-use database modeling software for high-quality data models. It's a complete data modeling solution for data modelers and data architects.
-- [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - A powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
-- [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler is a free graphical tool that enhances productivity and simplifies data modeling tasks.
-- [pgmodeler](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
-
-
-## Migration tools
+### Changes
 - [2bass](https://github.com/CourseOrchestra/2bass) - Database configuration-as-code tool that utilizes concept of idempotent DDL scripts.
 - [Bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 - [flyway](https://github.com/flyway/flyway) - Database migration tool.
@@ -155,10 +144,27 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Sqitch](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 - [yuniql](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
 
-
-## Code generation tools
+### Code generation
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
 - [scheme2ddl](https://github.com/qwazer/scheme2ddl) - Command line util for export Oracle schema to set of ddl init scripts with ability to filter undesirable information, separate DDL in different files, pretty format output.
+
+### Diagrams
+- [dbdiagram.io](https://dbdiagram.io) - Quick and simple tool for help you draw your database relationship diagrams and flow quickly using simple DSL language.
+- [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
+
+### Documentations
+- [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
+- [Schema Spy](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
+- [tbls](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
+
+### Modelers
+- [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler) - Easy-to-use database modeling software for high-quality data models. It's a complete data modeling solution for data modelers and data architects.
+- [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - A powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
+- [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler is a free graphical tool that enhances productivity and simplifies data modeling tasks.
+- [pgmodeler](https://github.com/pgmodeler/pgmodeler) - Data modeling tool designed for PostgreSQL.
+
+### Samples
+- [Oracle Database Sample Schemas](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
 
 
 ## API
@@ -271,10 +277,6 @@ Low-code and no-code platforms for application building
 ## DevOps
 - [DBmaestro](https://www.dbmaestro.com) - DBmaestro accelerates release cycles & supports agility across the entire IT ecosystem.
 - [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Toad DevOps Toolkit executes key database development functions within your DevOps workflow —without compromising quality, performance or reliability.
-
-
-## Schema samples
-- [Oracle Database Sample Schemas](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
 
 
 ## Reporting
