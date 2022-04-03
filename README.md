@@ -80,7 +80,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 - [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 - [DbVisualizer](https://www.dbvis.com) - Universal database tool for developers, DBAs and analysts.
-- [HouseOps](https://github.com/HouseOps/HouseOps) - Enterprise ClickHouse Ops UI for you run querys, monitoring ClickHouse health and make a lot of others thinks.
 - [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
 - [Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 - [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
