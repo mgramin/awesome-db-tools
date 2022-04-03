@@ -25,7 +25,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Prometheus](#prometheus)
   - [Zabbix](#zabbix)
 - [Testing](#testing)
-  - [Data generator](#data-generator)
 - [Administration](#administration)
 - [HA/Failover/Sharding](#hafailoversharding)
 - [Kubernetes](#kubernetes)
@@ -44,6 +43,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Über SQL](#über-sql)
   - [Language Server Protocol](#language-server-protocol)
 - [Data](#data)
+  - [Generators](#generators)
   - [Replication](#replication) 
 - [Papers](#papers)
 
@@ -237,14 +237,6 @@ Low-code and no-code platforms for application building
 - [RegreSQL](https://github.com/dimitri/regresql) - Regression Testing your SQL queries.
 
 
-### Data generator
-- [Databene Benerator](https://sourceforge.net/projects/benerator) - It is a framework for generating realistic and valid high-volume test data for your system under test (avoiding the Datalite anti-pattern).
-- [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
-- [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
-- [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
-- [Noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
-- [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
-
 ## Administration
 - [pgbadger](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
 - [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
@@ -349,6 +341,14 @@ Run SQL queries against anything
 
 ## Data
 - [dbt](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+
+### Generators
+- [Databene Benerator](https://sourceforge.net/projects/benerator) - It is a framework for generating realistic and valid high-volume test data for your system under test (avoiding the Datalite anti-pattern).
+- [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
+- [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
+- [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
+- [Noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
+- [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 
 ### Replication
 - [dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
