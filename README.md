@@ -329,6 +329,7 @@ Low-code and no-code platforms for application building
 - [General SQL Parser](https://www.sqlparser.com) - Parsing, formatting, modification and analysis for SQL.
 - [jOOQ](https://github.com/jOOQ/jOOQ) - Parses SQL, translates it to other dialects, and allows for expression tree transformations.
 - [JSqlParser](https://github.com/JSQLParser/JSqlParser) - Parses an SQL statement and translate it into a hierarchy of Java classes.
+- [libpg_query](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment.
 - [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
 
