@@ -43,6 +43,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Parsers](#parsers)
   - [Über SQL](#über-sql)
   - [Language Server Protocol](#language-server-protocol)
+  - [Plan](#plan)
 - [Data](#data)
   - [Generators](#generators)
   - [Replication](#replication) 
@@ -343,6 +344,10 @@ Run SQL queries against anything
 ### Language Server Protocol
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL Language Server.
 - [sqls](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+
+### Plan
+- [pev2](https://github.com/dalibo/pev2) - A VueJS component to show a graphical vizualization of a PostgreSQL execution plan.
+- [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres `EXPLAIN ANALYZE` output.
 
 
 ## Data
