@@ -223,7 +223,6 @@ Low-code and no-code platforms for application building
 - [Navicat Monitor](https://www.navicat.com/en/products/navicat-monitor) - A safe, simple and agentless remote server monitoring tool that is packed with powerful features to make your monitoring effective as possible.
 - [Percona Monitoring and Management](https://github.com/percona/pmm) - Open source platform for managing and monitoring MySQL and MongoDB performance.
 - [pganalyze collector](https://github.com/pganalyze/collector) - Pganalyze statistics collector for gathering PostgreSQL metrics and log data.
-- [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - New-generation diagnostics tool that allows users to do a deep analysis of the health of Postgres databases.
 - [pgbadger](https://github.com/dalibo/pgbadger) - A fast PostgreSQL Log Analyzer.
 - [pgDash](https://pgdash.io) - Measure and track every aspect of your PostgreSQL databases.
 - [PgHero](https://github.com/ankane/pghero) - A performance dashboard for Postgres - health checks, suggested indexes, and more.
@@ -232,6 +231,8 @@ Low-code and no-code platforms for application building
 - [pgMustard](https://www.pgmustard.com) - A user interface for Postgres explain plans, plus tips to improve performance.
 - [pgstats](https://github.com/gleu/pgstats) - Collects PostgreSQL statistics, and either saves them in CSV files or print them on the stdout.
 - [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - Flexible self-contained PostgreSQL metrics monitoring/dashboarding solution.
+- [PostgreSQL Metrics](https://github.com/spotify/postgresql-metrics) - Service to extract and provide metrics on your PostgreSQL database.
+- [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - New-generation diagnostics tool that allows users to do a deep analysis of the health of Postgres databases.
 - [Promscale](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL.
 - [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - Provides metrics for your postgres database.
 
