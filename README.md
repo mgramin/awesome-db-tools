@@ -17,7 +17,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Code generation](#code-generation)
   - [Diagrams](#diagrams)
   - [Documentations](#documentations)
-  - [Modelers](#modelers)
+  - [Design](#design)
   - [Samples](#samples)
 - [API](#api)
 - [Application platforms](#application-platforms)
@@ -161,7 +161,8 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Schema Spy](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
 - [tbls](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
 
-### Modelers
+### Design
+- [Database Design](https://github.com/alextanhongpin/database-design) - Useful tips for designing robust database schema.
 - [DBDiagram](https://dbdiagram.io) - A free, simple tool to draw ER diagrams by just writing code.
 - [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler) - Easy-to-use database modeling software for high-quality data models. It's a complete data modeling solution for data modelers and data architects.
 - [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - A powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
