@@ -45,6 +45,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Language Server Protocol](#language-server-protocol)
   - [Plan](#plan)
 - [Data](#data)
+  - [Catalog](#catalog) 
   - [Generators](#generators)
   - [Replication](#replication) 
 - [Papers](#papers)
@@ -357,6 +358,11 @@ Run SQL queries against anything
 
 ## Data
 - [dbt](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
+
+### Catalog
+- [Amundsen](https://github.com/amundsen-io/amundsen) - Metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+- [DataHub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack.
+- [Marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 
 ### Generators
 - [Benerator](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
