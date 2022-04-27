@@ -334,6 +334,7 @@ Low-code and no-code platforms for application building
 - [libpg_query](https://github.com/pganalyze/libpg_query) - C library for accessing the PostgreSQL parser outside of the server environment.
 - [More SQL Parsing!](https://github.com/klahnakoski/mo-sql-parsing) - Parse SQL into JSON.
 - [sqlparse](https://github.com/andialbrecht/sqlparse) - Non-validating SQL parser for Python.
+- [SQLGlot](https://github.com/tobymao/sqlglot) - Pure Python SQL parser, transpiler, and builder.
 
 ### Über SQL
 Run SQL queries against anything
