@@ -361,7 +361,7 @@ Run SQL queries against anything
 
 ## Data
 - [dbt](https://github.com/dbt-labs/dbt-core) - Transform your data by simply writing select statements, while dbt handles turning these statements into tables and views in a data warehouse.
-- [QuickTable](https://quicktable.io) - QuickTable empowers everyone to access, clean, analyze, transform, and model data with no code.
+- [QuickTable](https://quicktable.io) - Empowers everyone to access, clean, analyze, transform, and model data with no code.
 
 ### Catalog
 - [Amundsen](https://github.com/amundsen-io/amundsen) - Metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
