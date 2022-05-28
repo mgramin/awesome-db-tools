@@ -85,6 +85,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [DbVisualizer](https://www.dbvis.com) - Universal database tool for developers, DBAs and analysts.
 - [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
 - [Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
+- [Malewicz](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
 - [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
 - [ocelotgui](https://github.com/ocelot-inc/ocelotgui) - For MySQL, MariaDB, and Tarantool. Developed for Linux but can run on Windows.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management.
