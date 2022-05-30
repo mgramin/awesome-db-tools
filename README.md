@@ -191,6 +191,7 @@ Building API for your Data
 - [restSQL](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 - [resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 - [sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
+- [PostGraphile](https://www.graphile.org/postgraphile/) - Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database
 
 
 ## Application platforms
