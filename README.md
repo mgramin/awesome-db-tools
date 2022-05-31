@@ -399,7 +399,7 @@ Documents, articles, manifestos and other theoretical materials on database tool
 - [The "Database as Code" Manifesto](https://github.com/mgramin/database-as-code) - Treat your database as Code.
 
 ## Machine Learning
-- [MindsDB]([https://github.com/mgramin/database-as-code](https://github.com/mindsdb/mindsdb)) - In-database Machine Learning.
+- [MindsDB](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
 
 ## Contributing
 - Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
