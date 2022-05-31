@@ -161,6 +161,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 
 ### Documentations
+- [doc-sql-database](https://github.com/JoePlant/doc-sql-database) - Generate an interactive report for a Microsoft SQL Server database using a script to extract key information.
 - [dbdocs](https://dbdocs.io/) - Create web-based database documentation using DSL code.
 - [DBML](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
 - [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
