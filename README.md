@@ -49,7 +49,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Generators](#generators)
   - [Replication](#replication) 
 - [Papers](#papers)
-- [Machibe Learning](#machine-learning)
+- [Machine Learning](#machine-learning)
 
 ## IDE
 - [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
