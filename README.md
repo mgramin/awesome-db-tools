@@ -400,6 +400,7 @@ Documents, articles, manifestos and other theoretical materials on database tool
 
 ## Machine Learning
 - [MindsDB](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
+- [SQLFlow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
 ## Contributing
 - Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
