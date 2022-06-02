@@ -250,6 +250,7 @@ Low-code and no-code platforms for application building
 ### Prometheus
 - [pgSCV](https://github.com/weaponry/pgscv) - Metrics exporter for PostgreSQL and Postgres-related services.
 - [postgres_exporter](https://github.com/wrouesnel/postgres_exporter) - Prometheus exporter for PostgreSQL server metrics.
+- [pg_exporter](https://github.com/Vonng/pg_exporter) - Fully customizable Prometheus exporter for PostgreSQL & Pgbouncer with fine-grained execution control.
 
 ### Zabbix
 - [Mamonsu](https://github.com/postgrespro/mamonsu) - Monitoring agent for PostgreSQL.
