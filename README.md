@@ -175,6 +175,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ### Design
 - [Database Design](https://github.com/alextanhongpin/database-design) - Useful tips for designing robust database schema.
 - [DBDiagram](https://dbdiagram.io) - A free, simple tool to draw ER diagrams by just writing code.
+- [DbSchema](https://dbschema.com/) - Universal database designer for out-of-the-box schema management, schema documentation, design in a team, and deployment on multiple databases. DbSchema features tools for writing and executing queries, exploring the data, generating data, and building reports.
 - [ERBuilder Data Modeler](https://soft-builder.com/erbuilder-data-modeler) - Easy-to-use database modeling software for high-quality data models. It's a complete data modeling solution for data modelers and data architects.
 - [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler) - A powerful and cost-effective database design tool which helps you build high-quality conceptual, logical and physical data models.
 - [Oracle SQL Developer Data Modeler](http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html) - Oracle SQL Developer Data Modeler is a free graphical tool that enhances productivity and simplifies data modeling tasks.
