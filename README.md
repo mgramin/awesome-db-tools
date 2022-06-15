@@ -196,6 +196,7 @@ Building API for your Data
 - [PostGraphile](https://github.com/graphile/postgraphile) - Instantly spin-up a GraphQL API server by pointing PostGraphile at your existing PostgreSQL database.
 - [PostgREST](https://github.com/PostgREST/postgrest) - REST API for any Postgres database.
 - [prest](https://github.com/prest/prest) - Is a way to serve a RESTful API from any databases written in Go.
+- [Remult](https://github.com/remult/remult) - End-to-end type-safe CRUD via REST API for your database, with fine-grained access control.
 - [restSQL](https://github.com/restsql/restsql) - SQL generator with Java and HTTP APIs, uses a simple RESTful HTTP API with XML or JSON serialization.
 - [resquel](https://github.com/formio/resquel) - Easily convert your SQL database into a REST API.
 - [sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
