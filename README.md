@@ -48,6 +48,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Catalog](#catalog) 
   - [Generators](#generators)
   - [Replication](#replication) 
+  - [Compare](#compare) 
 - [Papers](#papers)
 - [Machine Learning](#machine-learning)
 
@@ -402,6 +403,8 @@ Run SQL queries against anything
 - [PGDeltaStream](https://github.com/hasura/pgdeltastream) - A Golang webserver to stream Postgres changes atleast-once over websockets, using Postgres logical decoding feature.
 - [repmgr](https://github.com/2ndQuadrant/repmgr) - The Most Popular Replication Manager for PostgreSQL.
 
+### Compare
+- [data-diff](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
 
 ## Papers
 Documents, articles, manifestos and other theoretical materials on database tools
