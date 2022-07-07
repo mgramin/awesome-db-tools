@@ -208,6 +208,7 @@ Building API for your Data
 Low-code and no-code platforms for application building
 - [Appsmith](https://github.com/appsmithorg/appsmith) - Powerful open source low code framework to build internal applications really quickly.
 - [Budibase](https://github.com/Budibase/budibase) - Low-code platform for creating internal apps in minutes.
+- [Nhost](https://nhost.io/) - The Open Source Firebase Alternative with GraphQL
 - [Saltcorn](https://github.com/saltcorn/saltcorn) - Open source no-code builder for web datatabase applications. Server and drag-and-drop UI builder, data stored in PostgreSQL or SQLite.
 - [Tooljet](https://github.com/ToolJet/ToolJet) - Open-source low-code platform to build internal tools.
 
