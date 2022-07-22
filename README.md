@@ -43,6 +43,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Parsers](#parsers)
   - [Über SQL](#über-sql)
   - [Language Server Protocol](#language-server-protocol)
+  - [Learning](#learning)
   - [Plan](#plan)
 - [Data](#data)
   - [Catalog](#catalog) 
