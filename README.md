@@ -23,7 +23,6 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Application platforms](#application-platforms)
 - [Backup](#backup)
 - [Cloning](#cloning)
-- [Scripts](#scripts)
 - [Monitoring/Statistics/Perfomance](#monitoringstatisticsperfomance)
   - [Prometheus](#prometheus)
   - [Zabbix](#zabbix)
@@ -44,6 +43,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Über SQL](#über-sql)
   - [Language Server Protocol](#language-server-protocol)
   - [Plan](#plan)
+  - [Scripts](#scripts)
 - [Data](#data)
   - [Catalog](#catalog) 
   - [Generators](#generators)
@@ -224,18 +224,6 @@ Low-code and no-code platforms for application building
 - [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 
-## Scripts
-- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
-- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
-- [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
-- [pgWikiDont](https://gitlab.com/depesz/pgWikiDont) - SQL test that checks if your database follows rules from <https://wiki.postgresql.org/wiki/Don't_Do_This>.
-- [pg-utils](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
-- [Postgres cheat sheet](https://postgrescheatsheet.com) - Useful SQL-scripts and commands by <timescale.com>.
-- [postgres_dba](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
-- [postgres_queries_and_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
-- [TPT](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
-
-
 ## Monitoring/Statistics/Perfomance
 - [ASH Viewer](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
 - [Monyog](https://www.webyog.com/product/monyog) - Agentless & Cost-effective MySQL Monitoring Tool.
@@ -376,6 +364,18 @@ Run SQL queries against anything
 ### Plan
 - [pev2](https://github.com/dalibo/pev2) - A VueJS component to show a graphical vizualization of a PostgreSQL execution plan.
 - [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for Postgres `EXPLAIN ANALYZE` output.
+
+### Scripts
+Useful SQL-scripts for various purposes
+- [DBA MultiTool](https://github.com/LowlyDBA/dba-multitool) - T-SQL scripts for the long haul: optimizing storage, on-the-fly documentation, and general administrative needs for SQL Server.
+- [pgx_scripts](https://github.com/pgexperts/pgx_scripts) - A collection of useful little scripts for database analysis and administration, created by our team at PostgreSQL Experts.
+- [pgsql-bloat-estimation](https://github.com/ioguix/pgsql-bloat-estimation) - Queries to mesure statistical bloat in indexes and tables for PostgreSQL.
+- [pgWikiDont](https://gitlab.com/depesz/pgWikiDont) - SQL test that checks if your database follows rules from <https://wiki.postgresql.org/wiki/Don't_Do_This>.
+- [pg-utils](https://github.com/dataegret/pg-utils) - Useful PostgreSQL utilities.
+- [Postgres cheat sheet](https://postgrescheatsheet.com) - Useful SQL-scripts and commands by <timescale.com>.
+- [postgres_dba](https://github.com/NikolayS/postgres_dba) - The missing set of useful tools for Postgres DBAs and all engineers.
+- [postgres_queries_and_commands.sql](https://gist.github.com/rgreenjr/3637525) - Useful PostgreSQL Queries and Commands.
+- [TPT](https://github.com/tanelpoder/tpt-oracle) - These sqlplus scripts are for Oracle Database performance optimization & troubleshooting.
 
 
 ## Data
