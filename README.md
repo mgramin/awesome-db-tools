@@ -42,6 +42,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Parsers](#parsers)
   - [Über SQL](#über-sql)
   - [Language Server Protocol](#language-server-protocol)
+  - [Learning](#learning)
   - [Plan](#plan)
   - [Scripts](#scripts)
 - [Data](#data)
@@ -360,6 +361,15 @@ Run SQL queries against anything
 ### Language Server Protocol
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL Language Server.
 - [sqls](https://github.com/lighttiger2505/sqls) - SQL Language Server written in Go.
+
+### Learning
+Learning and puzzles for SQL
+- [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
+- [Hackerrank](https://www.hackerrank.com/domains/sql) - Practice coding, prepare for interviews, and get hired.
+- [LeetCode](https://leetcode.com/problemset/database) - Enhance your skills, expand your knowledge and prepare for technical interviews.
+- [Select Star SQL](https://selectstarsql.com) - Free interactive book which aims to be the best place on the internet for learning SQL.
+- [StrataScratch](https://www.stratascratch.com/blog/categories/sql) - Data science educational resources.
+- [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
 ### Plan
 - [pev2](https://github.com/dalibo/pev2) - A VueJS component to show a graphical vizualization of a PostgreSQL execution plan.
