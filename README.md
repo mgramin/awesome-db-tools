@@ -169,6 +169,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ### Diagrams
 - [Azimutt](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
+- [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 
 ### Documentations
 - [dbdocs](https://dbdocs.io/) - Create web-based database documentation using DSL code.
