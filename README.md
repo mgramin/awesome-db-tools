@@ -412,6 +412,7 @@ Useful SQL-scripts for various purposes
 - [dbForge Data Generator for SQL Server](https://www.devart.com/dbforge/sql/data-generator) - Powerful GUI tool for a fast generation of meaningful test data for databases.
 - [Faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
 - [Noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
+- [RandomProfile](https://randomprofile.com/) - Real-like users profile generator and API service for developers.
 - [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 - [Synthesized](https://www.synthesized.io) - Create, validate, and safely share high-quality data for software testing, model training, and data analysis without any manual configuration.
 
