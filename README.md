@@ -47,7 +47,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Scripts](#scripts)
 - [Data](#data)
   - [Catalog](#catalog) 
-  - [Generators](#generators)
+  - [Generation/Masking/Subsetting](#generationmaskingsubsetting)
   - [Replication](#replication) 
   - [Compare](#compare) 
 - [Papers](#papers)
@@ -405,7 +405,7 @@ Useful SQL-scripts for various purposes
 - [DataHub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack.
 - [Marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 
-### Generators
+### Generation/Masking/Subsetting
 - [Benerator](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
 - [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 - [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
@@ -415,6 +415,7 @@ Useful SQL-scripts for various purposes
 - [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
 - [Synthesized](https://www.synthesized.io) - Create, validate, and safely share high-quality data for software testing, model training, and data analysis without any manual configuration.
 - [Wolebase](https://wolebase.com) - Powerful and simple tool to generate large amount of fake/real data in your target database. Works for MySQL · PostgreSQL
+- [Synthesized TDK](https://docs.synthesized.io/tdk/latest/?utm_source=habr&utm_medium=devrel&utm_campaign=datagen) - DevOps' best friend for database masking and generation.
 
 ### Replication
 - [dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
