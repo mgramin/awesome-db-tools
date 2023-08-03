@@ -281,6 +281,7 @@ Low-code and no-code platforms for application building
 - [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
 - [postgresql_cluster](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
 - [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+- [ShardingSphere](https://github.com/apache/shardingsphere) = Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
 
 
 ## Kubernetes
