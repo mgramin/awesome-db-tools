@@ -329,6 +329,7 @@ Low-code and no-code platforms for application building
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
 - [SQLLineage](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
 - [TSQLLint](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
+- [QSI](https://github.com/chequer-io/qsi) - Pure C# Query Structure Interface.
 
 ### Extensions
 - [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
