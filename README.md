@@ -379,6 +379,7 @@ Learning and puzzles for SQL
 - [Select Star SQL](https://selectstarsql.com) - Free interactive book which aims to be the best place on the internet for learning SQL.
 - [StrataScratch](https://www.stratascratch.com/blog/categories/sql) - Data science educational resources.
 - [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
+- [Khan Academy > Computing > Computer programming > Unit 3: Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 
 ### Plan
 - [pev2](https://github.com/dalibo/pev2) - A VueJS component to show a graphical vizualization of a PostgreSQL execution plan.
