@@ -374,12 +374,13 @@ Run SQL queries against anything
 Learning and puzzles for SQL
 - [Advanced SQL Puzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Difficult set-based SQL puzzles.
 - [Hackerrank](https://www.hackerrank.com/domains/sql) - Practice coding, prepare for interviews, and get hired.
+- [Khan Academy > Computing > Computer programming > Unit 3: Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 - [Learn SQL in a Month of Lunches](https://www.manning.com/books/learn-sql-in-a-month-of-lunches) - A book about how to use SQL to retrieve, filter, and analyze data.
 - [LeetCode](https://leetcode.com/problemset/database) - Enhance your skills, expand your knowledge and prepare for technical interviews.
 - [Select Star SQL](https://selectstarsql.com) - Free interactive book which aims to be the best place on the internet for learning SQL.
 - [StrataScratch](https://www.stratascratch.com/blog/categories/sql) - Data science educational resources.
 - [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
-- [Khan Academy > Computing > Computer programming > Unit 3: Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
+
 
 ### Plan
 - [pev2](https://github.com/dalibo/pev2) - A VueJS component to show a graphical vizualization of a PostgreSQL execution plan.
