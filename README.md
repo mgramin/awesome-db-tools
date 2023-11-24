@@ -427,7 +427,7 @@ Useful SQL-scripts for various purposes
 - [Faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and Node.js.
 - [Noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 - [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
-- [Synthesized TDK](https://docs.synthesized.io/tdk/latest/?utm_source=habr&utm_medium=devrel&utm_campaign=datagen) - DevOps' best friend for database masking and generation.
+- [Synthesized TDK](https://docs.synthesized.io/tdk/latest) - DevOps' best friend for database masking and generation.
 
 ### Replication
 - [dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
