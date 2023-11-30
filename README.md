@@ -332,6 +332,7 @@ Low-code and no-code platforms for application building
 ## SQL
 
 ### Analyzers
+- [QSI](https://github.com/chequer-io/qsi) - Pure C# Query Structure Interface.
 - [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
 - [SQLLineage](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
