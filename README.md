@@ -332,6 +332,7 @@ Low-code and no-code platforms for application building
 ## SQL
 
 ### Analyzers
+- [Holistic.dev](https://holistic.dev) - Automatic detection service for database performance, security, and architecture issues
 - [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
 - [SQLLineage](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
