@@ -47,7 +47,8 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Plan](#plan)
   - [Scripts](#scripts)
 - [Data](#data)
-  - [Catalog](#catalog) 
+  - [Catalog](#catalog)
+  - [Lineage](#lineage) 
   - [Generation/Masking/Subsetting](#generationmaskingsubsetting)
   - [Replication](#replication) 
   - [Compare](#compare) 
@@ -332,6 +333,7 @@ Low-code and no-code platforms for application building
 ## SQL
 
 ### Analyzers
+- [Holistic.dev](https://holistic.dev) - Automatic detection service for database performance, security, and architecture issues.
 - [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
 - [SQLLineage](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
@@ -419,6 +421,9 @@ Useful SQL-scripts for various purposes
 - [Amundsen](https://github.com/amundsen-io/amundsen) - Metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
 - [DataHub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack.
 - [Marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
+
+### Lineage
+- [Dwh.dev](https://dwh.dev) - Nexgen data lineage for Snowflake.
 
 ### Generation/Masking/Subsetting
 - [Benerator](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
