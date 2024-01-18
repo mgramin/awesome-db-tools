@@ -450,6 +450,7 @@ Useful SQL-scripts for various purposes
 ## Papers
 Documents, articles, manifestos and other theoretical materials on database tools
 - [The "Database as Code" Manifesto](https://github.com/mgramin/database-as-code) - Treat your database as Code.
+- [Grokking Relational Database Design](https://www.manning.com/books/grokking-relational-database-design) - A friendly illustrated guide to designing and implementing your first database.
 
 ## Machine Learning
 - [MindsDB](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
