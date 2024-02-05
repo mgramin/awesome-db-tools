@@ -90,6 +90,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 ## GUI
 - [Adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
+- [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
 - [Azure Data Studio](https://github.com/microsoft/azuredatastudio) - A data management tool that enables working with SQL Server, PostgreSQL, Azure SQL DB and SQL DW from Windows, macOS and Linux.
 - [Beekeeper Studio](https://github.com/beekeeper-studio/beekeeper-studio) - Open Source SQL Editor and Database Manager with a privacy commitment in their mission statement.
 - [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
