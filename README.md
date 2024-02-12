@@ -197,6 +197,8 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ### Samples
 - [Oracle Database Sample Schemas](https://github.com/oracle/db-sample-schemas) - Oracle Database Sample Schemas.
 
+## Data Changes
+- [Bemi](https://github.com/BemiHQ/bemi) - Automatic data change tracking for PostreSQL. 
 
 ## API
 Building API for your Data
