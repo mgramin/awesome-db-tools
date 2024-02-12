@@ -19,6 +19,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
   - [Documentations](#documentations)
   - [Design](#design)
   - [Samples](#samples)
+- [Data changes](#data-changes)
 - [API](#api)
 - [Application platforms](#application-platforms)
 - [Backup](#backup)
