@@ -166,6 +166,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Sqitch](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 - [sqldef](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
 - [yuniql](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+- [wtx](https://github.com/c410-f3r/wtx) - A flexible schema management system written in Rust.
 
 ### Code generation
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
