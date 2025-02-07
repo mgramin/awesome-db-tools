@@ -298,7 +298,7 @@ Low-code and no-code platforms for application building
 - [pglookout](https://github.com/aiven/pglookout) - PostgreSQL replication monitoring and failover daemon.
 - [pgslice](https://github.com/ankane/pgslice) - Postgres partitioning as easy as pie.
 - [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) - High-Availibility for Postgres, based on industry references Pacemaker and Corosync.
-- [postgresql_cluster](https://github.com/vitabaks/postgresql_cluster) - PostgreSQL High-Availability Cluster (based on "Patroni" and "DCS(etcd)"). Automating deployment with Ansible.
+- [autobase](https://github.com/vitabaks/autobase) - Autobase for PostgreSQL® is an open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
 - [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
 
 
