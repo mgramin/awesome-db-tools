@@ -160,6 +160,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [gh-ost](https://github.com/github/gh-ost) - Online schema migration for MySQL.
 - [liquibase](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
 - [migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas.
+- [Neuledge](https://github.com/neuledge/engine-js) - Universal language for databases that provides state-of-the-art tools for data modeling, business logic representation, and schema validation.
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
 - [pg-osc](https://github.com/shayonj/pg-osc) - Easy CLI tool for making zero downtime schema changes and backfills in PostgreSQL.
 - [Prisma Migrate](https://github.com/prisma/migrate) - Declarative database schema migration tool that uses a declarative data modeling syntax to describe your database schema.
