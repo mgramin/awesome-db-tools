@@ -450,6 +450,7 @@ Useful SQL-scripts for various purposes
 - [Synthesized TDK](https://docs.synthesized.io/tdk/latest) - DevOps' best friend for database masking and generation.
 
 ### Replication
+- [DBConvert Streams](https://streams.dbconvert.com) - A cloud-native platform for real-time data migration and Change Data Capture (CDC) replication between MySQL and PostgreSQL databases. Supports deployment across various cloud platforms, including AWS, GCP, MS Azure.
 - [dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
 - [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [pgsync](https://github.com/ankane/pgsync) - Sync Postgres data between databases.
