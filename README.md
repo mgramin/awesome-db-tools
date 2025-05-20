@@ -158,6 +158,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Bytebase](https://github.com/bytebase/bytebase) - Web-based, zero-config, dependency-free database schema change and version control tool for teams.
 - [flyway](https://github.com/flyway/flyway) - Database migration tool.
 - [gh-ost](https://github.com/github/gh-ost) - Online schema migration for MySQL.
+- [Harness Database DevOps](https://www.harness.io/products/database-devops) - Commercial version of liquibase, a Database-independent library for tracking, managing and applying database schema changes. Extends it with native orchestration, governance, and visibility features.
 - [liquibase](https://github.com/liquibase/liquibase) - Database-independent library for tracking, managing and applying database schema changes.
 - [migra](https://github.com/djrobstep/migra) - Like diff but for PostgreSQL schemas.
 - [node-pg-migrate](https://github.com/salsita/node-pg-migrate) - Node.js database migration management built exclusively for postgres. (But can also be used for other DBs conforming to SQL standard - e.g. CockroachDB.)
@@ -318,6 +319,7 @@ Low-code and no-code platforms for application building
 
 ## DevOps
 - [DBmaestro](https://www.dbmaestro.com) - DBmaestro accelerates release cycles & supports agility across the entire IT ecosystem.
+- [Harness Database DevOps](https://www.harness.io/products/database-devops) - Harness database DevOps helps customers integrate database migrations seamlessly into their application deployment pipelines.
 - [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Toad DevOps Toolkit executes key database development functions within your DevOps workflow —without compromising quality, performance or reliability.
 
 
