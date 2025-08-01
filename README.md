@@ -319,7 +319,7 @@ Low-code and no-code platforms for application building
 
 ## DevOps
 - [DBmaestro](https://www.dbmaestro.com) - DBmaestro accelerates release cycles & supports agility across the entire IT ecosystem.
-- [Harness Database DevOps](https://www.harness.io/products/database-devops) - Harness database DevOps helps customers integrate database migrations seamlessly into their application deployment pipelines.
+- [Harness](https://www.harness.io) - Harness database DevOps helps customers integrate database migrations seamlessly into their application deployment pipelines.
 - [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Toad DevOps Toolkit executes key database development functions within your DevOps workflow —without compromising quality, performance or reliability.
 
 
