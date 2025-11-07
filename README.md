@@ -448,6 +448,7 @@ Useful SQL-scripts for various purposes
 - [Noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 - [quick-seed](https://github.com/miit-daga/quick-seed) - Database-agnostic seeding tool for generating realistic test data with support for PostgreSQL, MySQL, SQLite, Prisma, and Drizzle ORM.
 - [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
+- [SQLable](https://sqlable.com/generator/) - Generate fake data in the browser.
 - [Synthesized TDK](https://docs.synthesized.io/tdk/latest) - DevOps' best friend for database masking and generation.
 
 ### Replication
