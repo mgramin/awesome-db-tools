@@ -318,6 +318,7 @@ Low-code and no-code platforms for application building
 
 ## DevOps
 - [DBmaestro](https://www.dbmaestro.com) - Accelerates release cycles & supports agility across the entire IT ecosystem.
+- [env-guard](https://github.com/miit-daga/env-guard) - Schema-based validator for environment variables with TypeScript support for database configuration validation.
 - [Toad DevOps Toolkit](https://www.quest.com/products/toad-devops-toolkit/) - Executes key database development functions within your DevOps workflow —without compromising quality, performance or reliability.
 
 
