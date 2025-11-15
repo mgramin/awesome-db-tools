@@ -451,6 +451,11 @@ Useful SQL-scripts for various purposes
 - [SQLable](https://sqlable.com/generator/) - Generate fake data in the browser.
 - [Synthesized TDK](https://docs.synthesized.io/tdk/latest) - DevOps' best friend for database masking and generation.
 
+### Data Profilers
+- [Data Profiler](https://github.com/capitalone/dataprofiler) - The DataProfiler is a Python library designed to make data analysis, monitoring, and sensitive data detection easy.
+- [Desbordante](https://github.com/desbordante/desbordante-core) - An open-source data profiler specifically focused on discovery and validation of complex patterns in data.
+- [YData Profiling](https://github.com/ydataai/ydata-profiling) - A general-purpose open-source data profiler for high-level analysis of a dataset.
+
 ### Replication
 - [dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
 - [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
