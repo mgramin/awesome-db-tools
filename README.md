@@ -241,6 +241,7 @@ Low-code and no-code platforms for application building
 - [Databasus](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 - [pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a PostgreSQL database to a target PostgreSQL server (pg_dump | pg_restore on steroids).
+- [pg_probackup](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
 
 ## Cloning
 - [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for PostgreSQL to scale the development process.
