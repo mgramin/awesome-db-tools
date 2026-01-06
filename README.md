@@ -442,7 +442,6 @@ Useful SQL-scripts for various purposes
 - [Dwh.dev](https://dwh.dev) - Nexgen data lineage for Snowflake.
 
 ### Generation/Masking/Subsetting
-- [Advanced Data Generator](https://www.upscene.com/advanced_data_generator/) - Test Data Generator GUI tool to generate realistic life like test data, works with ODBC, ADO or specifically with Firebird, MySQL, InterBase and MS Access.
 - [Benerator](https://github.com/rapiddweller/rapiddweller-benerator-ce) - Generate, obfuscate (anonymize / pseudonymize) and migrate data for development, testing and training purposes.
 - [dbForge Data Generator for MySQL](https://www.devart.com/dbforge/mysql/data-generator) - Powerful GUI tool for creating massive volumes of realistic test data.
 - [dbForge Data Generator for Oracle](https://www.devart.com/dbforge/oracle/data-generator) - Small but mighty GUI tool for populating Oracle schemas with tons of realistic test data.
