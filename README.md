@@ -473,6 +473,7 @@ Useful SQL-scripts for various purposes
 ### Compare
 - [data-diff](https://github.com/datafold/data-diff) - Command-line tool and Python library to efficiently diff rows across two different databases.
 - [KS DB Merge Tools](https://ksdbmerge.tools) - GUI to compare and sync DB schema and data. For Oracle Database, MySQL, MariaDB, SQL Server, PostgreSQL, SQLite, MS Access and Cross-DBMS.
+- [Recce](https://github.com/datarecce/recce) - Collaborative data diffing and data validation for analytics engineers.
 
 ## Papers
 Documents, articles, manifestos and other theoretical materials on database tools
