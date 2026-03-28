@@ -345,6 +345,7 @@ Low-code and no-code platforms for application building
 - [Acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
 - [Databunker](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
 - [Inspektor](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
+- [ReleaseRun](https://releaserun.com/tools/cve-dashboard/) - Browser-based CVE and vulnerability scanner for database dependencies. Check PostgreSQL extension compatibility, identify EOL versions, and detect known CVEs — no install required.
 
 
 ## SQL
