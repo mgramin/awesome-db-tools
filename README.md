@@ -116,6 +116,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [PopSQL](https://popsql.com) - Modern, collaborative SQL editor for your team.
 - [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Shell-centric cross-platform MongoDB management tool.
+- [Seaquel](https://github.com/webstonehq/seaquel) - Basics you'd expect, plus visual query builder, dashboards, all shareable via git.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - Fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - Graphical interface supports all SQLite features.
