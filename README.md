@@ -330,6 +330,7 @@ Low-code and no-code platforms for application building
 ## Reporting
 - [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from multiple databases and services.
 - [Poli](https://github.com/shzlw/poli) - An easy-to-use SQL reporting application built for SQL lovers.
+- [AI for Database](https://aifordatabase.com) - Connect to any database and talk to it in plain English. No SQL needed — get instant insights, build self-refreshing intelligent dashboards, and trigger automated workflows on database changes. Freemium.
 
 
 ## Distributions
