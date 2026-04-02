@@ -109,6 +109,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
 - [ocelotgui](https://github.com/ocelot-inc/ocelotgui) - For MySQL, MariaDB, and Tarantool. Developed for Linux but can run on Windows.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management.
+- [Paul](https://guillim.github.io/products/paul) - AI-first PostgreSQL client for macOS. Free. Opens in 2 seconds, Dead simple.
 - [Pgweb](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
 - [phpLiteAdmin](https://www.phpliteadmin.org) - Web-based SQLite database admin tool written in PHP with support for SQLite3 and SQLite2.
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL and MariaDB.
