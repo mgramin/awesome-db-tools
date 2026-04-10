@@ -8,6 +8,7 @@ Feel free to add information about your own db-tools or your favorite third-part
 
 For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL follow me at [@GraminMaksim](https://twitter.com/GraminMaksim)
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=mgramin_awesome-db-tools) - Follow database engineers on GitHub and see what DB tools and ORMs they are checking out.
 ## Contents
 - [IDE](#ide)
 - [GUI](#gui)
