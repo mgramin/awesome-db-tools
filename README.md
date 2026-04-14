@@ -487,3 +487,4 @@ Documents, articles, manifestos and other theoretical materials on database tool
 
 ## Contributing
 - Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
