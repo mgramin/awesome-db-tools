@@ -36,6 +36,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Security](#security)
 - [SQL](#sql)
   - [Analyzers](#analyzers)
+  - [Code Generators](#code-generators)
   - [Extensions](#extensions)
   - [Frameworks](#frameworks)
   - [Formatters](#formatters)
