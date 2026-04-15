@@ -36,6 +36,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Security](#security)
 - [SQL](#sql)
   - [Analyzers](#analyzers)
+  - [Code Generators](#code-generators)
   - [Extensions](#extensions)
   - [Frameworks](#frameworks)
   - [Formatters](#formatters)
@@ -355,6 +356,11 @@ Low-code and no-code platforms for application building
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
 - [SQLLineage](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
 - [TSQLLint](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
+
+### Code Generators
+- [sqlc](https://sqlc.dev) - SQL-first code generator producing type-safe bindings for various languages and various databases.
+- [SQLDelight](https://sqldelight.github.io/sqldelight) - SQL-first code generator producing type-safe bindings for Kotlin and various databases.
+- [pGenie](https://pgenie.io) - SQL-first code generator producing type-safe bindings for various languages and specializing on the PostgreSQL database.
 
 ### Extensions
 - [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
