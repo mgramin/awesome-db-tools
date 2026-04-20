@@ -340,6 +340,7 @@ Low-code and no-code platforms for application building
 - [BigSQL](https://www.bigsql.org) - A developer-friendly distribution of PostgreSQL.
 - [Elephant Shed](https://github.com/credativ/elephant-shed) - Web-based PostgreSQL management front-end that bundles several utilities and applications for use with PostgreSQL.
 - [Pigsty](https://github.com/Vonng/pigsty) - Battery-Included Open-Source Distribution for PostgreSQL with ultimate observability & Database-as-Code toolbox for developers.
+- [TensorDB](https://github.com/tensor-db/TensorDB) - Bitemporal ledger database with MVCC, full SQL engine, and LSM-tree storage. Written in Rust.
 
 
 ## Security
