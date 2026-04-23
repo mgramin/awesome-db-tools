@@ -95,6 +95,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 
 
 ## GUI
+- [1bench](https://1bench.dev) - Native desktop GUI for SQL, NoSQL, vector, search, and graph databases. Available for Mac, Windows, and Linux.
 - [Adminer](https://github.com/vrana/adminer) - Database management in a single PHP file.
 - [Another Redis Desktop Manager](https://github.com/qishibo/AnotherRedisDesktopManager) - Free Open Source Redis Manager. Available on Mac, Linux, Windows, Homebrew, Snap, winget, and more.
 - [Antares SQL](https://github.com/antares-sql/antares) - A modern, fast and productivity driven SQL client with a focus in UX. Available for Mac, Linux and Windows.
