@@ -65,6 +65,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Database Workbench](https://www.upscene.com/database_workbench/) - Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB.
 - [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
 - [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
+- [DBConvert Streams](https://streams.dbconvert.com) - Database IDE with migration and CDC replication for PostgreSQL, MySQL, files, and S3-compatible storage.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
 - [dbForge Edge](https://www.devart.com/dbforge/edge/) - Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services.
 - [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - Universal IDE for MySQL and MariaDB database development, management, and administration.
