@@ -404,6 +404,7 @@ Run SQL queries against anything
 - [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
+- [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq.
 - [Steampipe](https://github.com/turbot/steampipe) - Use SQL to instantly query your cloud services (AWS, Azure, GCP and more).
 - [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
