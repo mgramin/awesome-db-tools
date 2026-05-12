@@ -22,6 +22,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [API](#api)
 - [Application platforms](#application-platforms)
 - [Backup](#backup)
+  - [Dump file operations](#dump-file-operations)
 - [Cloning](#cloning)
 - [Monitoring/Statistics/Perfomance](#monitoringstatisticsperfomance)
   - [Prometheus](#prometheus)
@@ -247,6 +248,9 @@ Low-code and no-code platforms for application building
 - [pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a PostgreSQL database to a target PostgreSQL server (pg_dump | pg_restore on steroids).
 - [pg_probackup](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
 - [Portabase](https://github.com/Portabase/portabase) - Agent-based platform for PostgreSQL backups and restores with decentralized execution and centralized orchestration. 
+
+### Dump file operations
+- [sql-splitter](https://github.com/HelgeSverre/sql-splitter) - High-performance CLI for splitting, sampling, sharding, and anonymizing SQL dump files with FK-aware subsetting across MySQL, PostgreSQL, SQLite, and MSSQL.
 
 ## Cloning
 - [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for PostgreSQL to scale the development process.
