@@ -22,6 +22,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [API](#api)
 - [Application platforms](#application-platforms)
 - [Backup](#backup)
+  - [Dump file operations](#dump-file-operations)
 - [Cloning](#cloning)
 - [Monitoring/Statistics/Perfomance](#monitoringstatisticsperfomance)
   - [Prometheus](#prometheus)
@@ -245,6 +246,9 @@ Low-code and no-code platforms for application building
 - [pg_probackup](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
 - [Portabase](https://github.com/Portabase/portabase) - Agent-based platform for PostgreSQL backups and restores with decentralized execution and centralized orchestration. 
 
+### Dump file operations
+- [sql-splitter](https://github.com/HelgeSverre/sql-splitter) - High-performance CLI for splitting, sampling, sharding, and anonymizing SQL dump files with FK-aware subsetting across MySQL, PostgreSQL, SQLite, and MSSQL.
+
 ## Cloning
 - [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for PostgreSQL to scale the development process.
 - [clone_schema](https://github.com/denishpatel/pg-clone-schema) - PostgreSQL clone schema utility without need of going outside of database.
@@ -455,7 +459,6 @@ Useful SQL-scripts for various purposes
 - [Noisia](https://github.com/lesovsky/noisia) - Harmful workload generator for PostgreSQL.
 - [quick-seed](https://github.com/miit-daga/quick-seed) - Database-agnostic seeding tool for generating realistic test data with support for PostgreSQL, MySQL, SQLite, Prisma, and Drizzle ORM.
 - [SB Data Generator](https://soft-builder.com/sb-data-generator) - Simple and powerful tool to generate and populate selected tables or entire databases with realistic test data for your applications. Generate test data for: Oracle, MS SQL Server, MySQL, PostgreSQL, Firebird, SQLite, Azure SQL Database, Amazon Redshift and Amazon RDS.
-- [sql-splitter](https://github.com/HelgeSverre/sql-splitter) - High-performance CLI for splitting, sampling, sharding, and anonymizing SQL dump files with FK-aware subsetting across MySQL, PostgreSQL, SQLite, and MSSQL.
 - [SQLable](https://sqlable.com/generator/) - Generate fake data in the browser.
 - [Synthesized TDK](https://docs.synthesized.io/tdk/latest) - DevOps' best friend for database masking and generation.
 
