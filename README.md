@@ -452,6 +452,7 @@ Useful SQL-scripts for various purposes
 - [Marquez](https://github.com/MarquezProject/marquez) - Collect, aggregate, and visualize a data ecosystem's metadata.
 
 ### Lineage
+- [DataPav](https://github.com/PaveLuchkov/datapav) – Visual column-level lineage for data pipelines. Trace column paths and refactor pipelines interactively on a canvas.
 - [Dwh.dev](https://dwh.dev) - Nexgen data lineage for Snowflake.
 
 ### Generation/Masking/Subsetting
