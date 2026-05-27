@@ -182,6 +182,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ### Diagrams
 - [Azimutt](https://github.com/azimuttapp/azimutt) - An Entity Relationship diagram (ERD) visualization tool, with various filters and inputs to help understand your database schema.
 - [ChartDB](https://github.com/chartdb/chartdb) - Free and Open-source database diagrams editor, visualize and design your DB with a single query.
+- [Conflict Serializable Validator](https://github.com/coderatul/conflict-serializable-validator) - Checks transaction schedules for conflict serializability with dependency graph visualization.
 - [DrawDB](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator. 
 - [DrawSQL](https://drawsql.app) - Online database schema diagram editor with SQL import, AI generation, and real-time team collaboration.
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
