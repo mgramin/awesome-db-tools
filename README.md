@@ -151,6 +151,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [mssql-cli](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting.
 - [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [pgcli](https://github.com/dbcli/pgcli) - PostgreSQL CLI with autocompletion and syntax highlighting.
+- [promptquery (prq)](https://github.com/Cyberfilo/promptquery) - read-only plain-English-to-PostgreSQL CLI for production-scale schemas (hundreds of tables), with a sqlglot safety guard and an honest, failures-included benchmark.
 - [vcli](https://github.com/dbcli/vcli) - Vertica CLI with auto-completion and syntax highlighting.
 
 
