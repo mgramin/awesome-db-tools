@@ -120,6 +120,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - Fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
 - [SQLite Expert](http://www.sqliteexpert.com/index.html) - Graphical interface supports all SQLite features.
+- [SQLite Hub](https://github.com/oliverjessner/sqlite-hub) - Modern database management for SQLite as a web app.
 - [sqlite-tui](https://github.com/mathaou/sqlite-tui) - A TUI for viewing SQLite databases, written in Go.
 - [sqlpad](https://github.com/rickbergfalk/sqlpad) - Web-based SQL editor run in your own private cloud.
 - [SQLPro](https://www.macpostgresclient.com) - A simple, powerful PostgreSQL manager for macOS.
