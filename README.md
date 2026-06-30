@@ -310,6 +310,7 @@ Low-code and no-code platforms for application building
 - [PostgreSQL Automatic Failover](https://github.com/ClusterLabs/PAF) - High-Availibility for PostgreSQL, based on industry references Pacemaker and Corosync.
 - [autobase](https://github.com/vitabaks/autobase) - Open-source DBaaS that automates the deployment and management of highly available PostgreSQL clusters.
 - [Vitess](https://github.com/vitessio/vitess) - Database clustering system for horizontal scaling of MySQL through generalized sharding.
+- [SuperCompress](https://github.com/arjunkshah/supercompress) - Learned prompt compression engine that reduces LLM token costs by ~65%. Use with AI-powered database tools to reduce inference costs. CPU-only, ~60ms latency.
 
 
 ## Kubernetes
