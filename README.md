@@ -174,6 +174,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Sqitch](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 - [sqldef](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
 - [yuniql](https://github.com/rdagumampan/yuniql) - Yet another schema versioning and migration tool just made with native .NET Core 3.0+ and hopefully better.
+- [actual-schema-gradle-plugin](https://github.com/YRashid/actual-schema-gradle-plugin) - Gradle plugin that generates the final PostgreSQL schema.sql after applying Liquibase migrations in a temporary Testcontainers database.
 
 ### Code generation
 - [ddl-generator](https://github.com/catherinedevlin/ddl-generator) - Infers SQL DDL (Data Definition Language) from table data.
