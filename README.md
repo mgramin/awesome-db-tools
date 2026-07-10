@@ -242,6 +242,7 @@ Low-code and no-code platforms for application building
 
 
 ## Backup
+- [backupdrill](https://github.com/backupdrill/cli) - Supabase backups (Postgres + Storage files) to your own S3-compatible bucket, with restore-verification drills in throwaway Docker containers.
 - [BaRMan](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
 - [Databasus](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
