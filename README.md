@@ -170,6 +170,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities to describe a PostgreSQL database schema as YAML.
 - [Reshape](https://github.com/fabianlindfors/reshape) - An easy-to-use, zero-downtime schema migration tool for Postgres.
 - [SchemaHero](https://github.com/schemahero/schemahero) - A Kubernetes operator for declarative database schema management (gitops for database schemas).
+- [SchemaSmith](https://github.com/Schema-Smith/SchemaSmith) - State-based schema management for SQL Server, PostgreSQL, MySQL, and MariaDB; declare the desired state instead of authoring migration scripts.
 - [Skeema](https://github.com/skeema/skeema) - Declarative pure-SQL schema management system for MySQL and MariaDB, with support for sharding and external online schema change tools.
 - [Sqitch](https://github.com/sqitchers/sqitch) - Sensible database-native change management for framework-free development and dependable deployment.
 - [sqldef](https://github.com/k0kubun/sqldef) - Idempotent schema management for MySQL, PostgreSQL, and more.
