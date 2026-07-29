@@ -379,6 +379,7 @@ Low-code and no-code platforms for application building
 - [pgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 - [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting. 
 - [SQL Formatter](https://github.com/zeroturnaround/sql-formatter) - JavaScript library for pretty-printing SQL queries.
+- [SQL Minifier](https://alltoolsverse.com/tools/sql-minifier/) - Browser-based SQL minifier that removes line and block comments and collapses whitespace.
 
 ### Games
 - [Lost at SQL](https://lost-at-sql.therobinlord.com) - A SQL learning game to help you pick up basic SQL skills - so that you can use queries to get information.
