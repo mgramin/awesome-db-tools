@@ -366,6 +366,7 @@ Low-code and no-code platforms for application building
 - [pGenie](https://pgenie.io) - SQL-first code generator producing type-safe bindings for various languages and specializing on the PostgreSQL database.
 
 ### Extensions
+- [KoldStore](https://github.com/kalamdb/koldstore) - PostgreSQL tiered-storage that moves historical rows to Parquet while keeping the original table fully queryable and supporting updates and deletes.
 - [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
 
 ### Frameworks
