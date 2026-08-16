@@ -192,6 +192,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 ### Documentations
 - [dbdocs](https://dbdocs.io/) - Create web-based database documentation using DSL code.
 - [DBML](https://github.com/holistics/dbml) - Database Markup Language, designed to define and document database structures.
+- [dbmlgraph](https://github.com/verryp/dbmlgraph) - CLI that turns a DBML schema into browsable markdown documentation and searches it by identifier.
 - [SchemaCrawler](https://github.com/schemacrawler/SchemaCrawler) - A free database schema discovery and comprehension tool.
 - [Schema Spy](https://github.com/schemaspy/schemaspy) - Generating your database to HTML documentation, including Entity Relationship diagrams.
 - [tbls](https://github.com/k1LoW/tbls) - CI-Friendly tool for document a database, written in Go.
