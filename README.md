@@ -411,6 +411,7 @@ Run SQL queries against anything
 - [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
 - [trdsql](https://github.com/noborus/trdsql) - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
 - [Trino](https://github.com/trinodb/trino) - Distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
+- [Varan](https://varan.cloud) - Desktop app that joins PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, SQLite and CSV/Excel in one SQL statement, with nothing installed on any database server.
 
 ### Language Server Protocol
 - [SQLLanguageServer](https://github.com/joe-re/sql-language-server) - SQL Language Server.
