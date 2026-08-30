@@ -187,6 +187,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool.
 - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 - [Liam ERD](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
+- [mcdview](https://mcdview.dev) - Generate a standalone, interactive HTML ER diagram from a SQL schema (PostgreSQL/MySQL/SQLite and ~15 dialects), pgModeler, dbml, Prisma, Rails or Drizzle; open source, shareable by link and CI-friendly.
 - [QuickDBD](https://www.quickdatabasediagrams.com/) - Simple online tool to quickly draw database diagrams.
 
 ### Documentations
