@@ -426,6 +426,8 @@ Learning and puzzles for SQL
 - [StrataScratch](https://www.stratascratch.com/blog/categories/sql) - Data science educational resources.
 - [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
+- [Telemetry SQL Playground](https://telemetry.sh/sql/playground) - Browser-based DuckDB SQL practice with synthetic event datasets and read-only queries.
+
 ### Plan
 - [pev2](https://github.com/dalibo/pev2) - A Vue.js component to show a graphical vizualization of a PostgreSQL execution plan.
 - [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for PostgreSQL `EXPLAIN ANALYZE` output.
