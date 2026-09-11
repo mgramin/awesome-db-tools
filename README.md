@@ -104,6 +104,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [DbGate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application.
 - [DB Lens](https://github.com/dblens/app) - Open Source PostgreSQL GUI - Automatic ER diagrams, Internal DB Insights, Disk Utilisation, Performance Metrics, Index Usage, Sequential scan counts and more.
 - [DbVisualizer](https://www.dbvis.com) - Universal database tool for developers, DBAs and analysts.
+- [dqex](https://github.com/fj1981/dqex) - Offline-first, AI-native database workbench as a single static binary (MySQL/PostgreSQL/Oracle). No JVM, no Electron; Web UI + CLI sharing one engine, cross-dialect migration, compare, snapshots, Excel data dictionary, and a confirm-before-write AI SQL assistant.
 - [JackDB](https://www.jackdb.com) - Direct SQL access to all your data, no matter where it lives.
 - [Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 - [Malewicz](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
