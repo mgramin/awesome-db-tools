@@ -188,6 +188,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [ERD Lab](https://www.erdlab.io/) - Free cloud based entity relationship diagram (ERD) tool made for developers.
 - [Liam ERD](https://github.com/liam-hq/liam) - Open-source tool that generates beautiful and easy-to-read Entity Relationship Diagrams from your database and ORMs.
 - [QuickDBD](https://www.quickdatabasediagrams.com/) - Simple online tool to quickly draw database diagrams.
+- [StackRender](https://github.com/stackrender/stackrender) - Free and open-source database schema design and SQL migration generator.
 
 ### Documentations
 - [dbdocs](https://dbdocs.io/) - Create web-based database documentation using DSL code.
