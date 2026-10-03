@@ -58,39 +58,39 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Machine Learning](#machine-learning)
 
 ## IDE
-- [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) - Premier multi-purpose admin tool for database management, control and development.
-- [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) - Productivity software for Database Developers, DBAs, and Analysts.
-- [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) - Modern IDE for analyst and analytics engineers with powerful script and grid functionality.
-- [Database .net](http://fishcodelib.com/Database.htm) - Multiple database management tool with support for 20+ databases.
-- [Database Workbench](https://www.upscene.com/database_workbench/) - Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB.
-- [DataGrip](https://www.jetbrains.com/datagrip) - Cross-Platform IDE for Databases & SQL by JetBrains.
+- [AnySQL Maestro](https://www.sqlmaestro.com/products/anysql/maestro) `$` `⊘` - Premier multi-purpose admin tool for database management, control and development.
+- [Aqua Data Studio](https://www.aquafold.com/aquadatastudio) `$` `⊘` - Productivity software for Database Developers, DBAs, and Analysts.
+- [Coginiti Pro](https://www.coginiti.co/products/coginiti-pro/) `$` `⊘` - Modern IDE for analyst and analytics engineers with powerful script and grid functionality.
+- [Database .net](http://fishcodelib.com/Database.htm) `⊘` - Multiple database management tool with support for 20+ databases.
+- [Database Workbench](https://www.upscene.com/database_workbench/) `$` `⊘` - Complete IDE for database design, development and testing for Oracle, SQL Server, PostgreSQL, MySQL, MariaDB, Firebird, InterBase, SQLite and NexusDB.
+- [DataGrip](https://www.jetbrains.com/datagrip) `$` `⊘` - Cross-Platform IDE for Databases & SQL by JetBrains.
 - [DataStation](https://github.com/multiprocessio/datastation) - Easily query, script, and visualize data from every database, file, and API.
 - [DBeaver](https://github.com/dbeaver/dbeaver) - Free universal database manager and SQL client.
-- [dbForge Edge](https://www.devart.com/dbforge/edge/) - Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services.
-- [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) - Universal IDE for MySQL and MariaDB database development, management, and administration.
-- [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) - Powerful IDE for Oracle management, administration, and development.
-- [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) - GUI tool for managing and developing databases and objects.
-- [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.
-- [DBHawk](https://www.datasparc.com/) - Datasparc offers database security, database management, database governance and data analytics - all in one solution.
+- [dbForge Edge](https://www.devart.com/dbforge/edge/) `$` `⊘` - Multidatabase solution for DB development, design, management, and administration of MySQL, MariaDB, SQL Server, Oracle, PostgreSQL databases, and various cloud services.
+- [dbForge Studio for MySQL](https://www.devart.com/dbforge/mysql/studio) `$` `⊘` - Universal IDE for MySQL and MariaDB database development, management, and administration.
+- [dbForge Studio for Oracle](https://www.devart.com/dbforge/oracle/studio) `$` `⊘` - Powerful IDE for Oracle management, administration, and development.
+- [dbForge Studio for PostgreSQL](https://www.devart.com/dbforge/postgresql/studio) `$` `⊘` - GUI tool for managing and developing databases and objects.
+- [dbForge Studio for SQL Server](https://www.devart.com/dbforge/sql/studio) `$` `⊘` - Powerful integrated development environment for SQL Server development, management, administration, data analysis, and reporting.
+- [DBHawk](https://www.datasparc.com/) `$` `⊘` - Datasparc offers database security, database management, database governance and data analytics - all in one solution.
 - [dbKoda](https://github.com/SouthbankSoftware/dbkoda) - Modern (JavaScript/Electron framework), open source IDE for MongoDB. It has features to support development, administration and performance tuning on MongoDB databases.
-- [IBExpert](http://www.ibexpert.net/ibe) - Comprehensive GUI tool for Firebird and InterBase.
+- [IBExpert](http://www.ibexpert.net/ibe) `$` `⊘` - Comprehensive GUI tool for Firebird and InterBase.
 - [HeidiSQL](https://github.com/HeidiSQL/HeidiSQL) - A lightweight client for managing MySQL, MSSQL and PostgreSQL, written in Delphi.
 - [Kangaroo](https://github.com/dbkangaroo/kangaroo) - A AI-powered SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / etc) on Windows / macOS / Linux, support table design, query, model, sync, export/import etc, focus on comfortable, fun and developer friendly.
-- [KeepTool](https://keeptool.com) - A professional suite of tools for Oracle Database developers, administrators and advanced application users.
+- [KeepTool](https://keeptool.com) `$` `⊘` - A professional suite of tools for Oracle Database developers, administrators and advanced application users.
 - [MySQL Workbench](https://www.mysql.com/products/workbench) - Unified visual tool for database architects, developers, and DBAs.
-- [Navicat](https://www.navicat.com/en/products#navicat) - A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application.
-- [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer) - Free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments.
+- [Navicat](https://www.navicat.com/en/products#navicat) `$` `⊘` - A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application.
+- [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer) `⊘` - Free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments.
 - [pgAdmin](https://www.pgadmin.org) - The most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [pgAdmin3](https://www.bigsql.org/pgadmin3) - Long Term Support for pgAdmin3.
-- [PL/SQL Developer](https://www.allroundautomations.com/products/pl-sql-developer) - IDE that is specifically targeted at the development of stored program units for Oracle Databases.
-- [PostgreSQL Maestro](https://www.sqlmaestro.com/products/postgresql/maestro) - Complete and powerful database management, admin and development tool for PostgreSQL.
+- [PL/SQL Developer](https://www.allroundautomations.com/products/pl-sql-developer) `$` `⊘` - IDE that is specifically targeted at the development of stored program units for Oracle Databases.
+- [PostgreSQL Maestro](https://www.sqlmaestro.com/products/postgresql/maestro) `$` `⊘` - Complete and powerful database management, admin and development tool for PostgreSQL.
 - [Querybook](https://github.com/pinterest/querybook) - Pinterest open-source Big Data Querying UI, combining collocated table metadata and a simple notebook IDE interface.
 - [Slashbase](https://github.com/slashbaseide/slashbase) - The open-source collaborative IDE for your databases. Connect to your database, browse data, run a bunch of SQL commands or share SQL queries with your team, right from your browser.
-- [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) - Integrated environment for managing any SQL infrastructure, for SQL Server and Azure SQL Databases.
-- [Toad](https://www.quest.com/toad/) - Premier database solution for developers, admins and data analysts. Manage complex database changes with a single database management tool.
-- [Toad Edge](https://www.toadworld.com/products/toad-edge) - Simplified database development tool for MySQL and PostgreSQL.
+- [Sql Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms) `⊘` - Integrated environment for managing any SQL infrastructure, for SQL Server and Azure SQL Databases.
+- [Toad](https://www.quest.com/toad/) `$` `⊘` - Premier database solution for developers, admins and data analysts. Manage complex database changes with a single database management tool.
+- [Toad Edge](https://www.toadworld.com/products/toad-edge) `$` `⊘` - Simplified database development tool for MySQL and PostgreSQL.
 - [TOra](https://github.com/tora-tool/tora) - Open source SQL IDE for Oracle, MySQL and PostgreSQL dbs.
-- [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE.
+- [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) `$` `⊘` - Create, administer, query and explore Valentina DB, MySQL, MariaDB, PostgreSQL and SQLite databases for FREE.
 - [WebDB](https://webdb.app) - Free Efficient Database IDE. Featuring Server Discovery, ERD, Data Generator, AI, NoSQL Structure Manager, Database Versioning and many more.
 
 
