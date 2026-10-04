@@ -349,6 +349,7 @@ Low-code and no-code platforms for application building
 - [Acra](https://github.com/cossacklabs/acra) - Database security suite. Database proxy with field-level encryption, search through encrypted data, SQL injections prevention, intrusion detection, honeypots. Supports client-side and proxy-side ("transparent") encryption. SQL, NoSQL.
 - [Databunker](https://github.com/securitybunker/databunker) - Special GDPR compliant secure vault for customer records built on top of regular DB.
 - [Inspektor](https://github.com/poonai/inspektor) - Access control layer for databases. Inspektor leverages open policy agent to make policy decisions.
+- [Supabase RLS Leak Demo](https://github.com/cekuu35/supabase-rls-leak-demo) - Local PGlite reproduction of Postgres/Supabase Row Level Security isolation failures, plus a free read-only audit SQL that flags RLS-off tables, anon-granted policies, and USING(true)/WITH CHECK(true) leaks.
 
 
 ## SQL
