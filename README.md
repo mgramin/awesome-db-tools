@@ -244,6 +244,7 @@ Low-code and no-code platforms for application building
 ## Backup
 - [BaRMan](https://github.com/2ndquadrant-it/barman) - Backup and Recovery Manager for PostgreSQL.
 - [Databasus](https://github.com/databasus/databasus) - Tool for scheduled PostgreSQL backups via web UI with external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management.
+- [DBAegis](https://github.com/ILOGICSOFT/dbaegis-community) - Self-hosted web platform for PostgreSQL, MySQL, and MongoDB logical backup, scheduling, history, retention, and restore workflows.
 - [pgbackrest](https://github.com/pgbackrest/pgbackrest) - Reliable PostgreSQL Backup & Restore.
 - [pgcopydb](https://github.com/dimitri/pgcopydb) - Copy a PostgreSQL database to a target PostgreSQL server (pg_dump | pg_restore on steroids).
 - [pg_probackup](https://github.com/postgrespro/pg_probackup) - A backup and recovery manager for PostgreSQL.
