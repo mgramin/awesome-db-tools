@@ -375,6 +375,7 @@ Low-code and no-code platforms for application building
 ### Formatters
 - [CodeBuff](https://github.com/antlr/codebuff) - Language-agnostic pretty-printing through machine learning.
 - [JSQLFormatter](https://github.com/manticore-projects/jsqlformatter) - Open Source Java SQL Formatter for many RDBMS based on JSqlParser.
+- [Nutilz SQL Formatter](https://nutilz.com/sql-formatter) - Free browser-based SQL formatter and minifier for MySQL, PostgreSQL and SQL Server, handling JOINs, CTEs and subqueries with no sign-up.
 - [SQL Online](https://sqlonline.in) - A Free Tool to format your SQL Queries followed by content for Analysts.
 - [pgFormatter](https://github.com/darold/pgFormatter) - A PostgreSQL SQL syntax beautifier.
 - [Poor SQL](https://poorsql.com) - Instant free and open-source T-SQL formatting. 
