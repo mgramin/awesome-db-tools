@@ -108,6 +108,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [Jailer](https://github.com/Wisser/Jailer) - Database Subsetting and Relational Data Browsing Tool/Client.
 - [Malewicz](https://github.com/mgramin/malewicz) - Yet Another WEB client for DB schema exploring and performance analysis, but originally created specifically for hacking and extending.
 - [MissionKontrol](https://www.missionkontrol.io) - Modern drag & drop admin panel/client with full user permissions for non-technical users.
+- [MQLens](https://github.com/mqlens/mqlens-mongodb) - Free, native, open-source MongoDB GUI with full auth, TLS/SSH/SOCKS5, aggregation and explain plans, schema analysis, GridFS, and embedded mongosh.
 - [ocelotgui](https://github.com/ocelot-inc/ocelotgui) - For MySQL, MariaDB, and Tarantool. Developed for Linux but can run on Windows.
 - [OmniDB](https://github.com/OmniDB/OmniDB) - Web tool for database management.
 - [Pgweb](https://github.com/sosedoff/pgweb) - Web-based database browser for PostgreSQL, written in Go and works on macOS, Linux and Windows machines.
