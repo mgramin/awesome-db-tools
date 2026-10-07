@@ -493,6 +493,7 @@ Documents, articles, manifestos and other theoretical materials on database tool
 
 ## Machine Learning
 - [MindsDB](https://github.com/mindsdb/mindsdb) - In-database Machine Learning.
+- [Pixeltable](https://github.com/pixeltable/pixeltable) - Declarative multimodal AI data engine for tables, computed columns, model inference, and vector search.
 - [SQLFlow](https://github.com/sql-machine-learning/sqlflow) - Brings SQL and AI together.
 
 ## Contributing
