@@ -475,6 +475,7 @@ Useful SQL-scripts for various purposes
 - [YData Profiling](https://github.com/ydataai/ydata-profiling) - A general-purpose open-source data profiler for high-level analysis of a dataset.
 
 ### Replication
+- [cdclint](https://github.com/avison9/cdclint) - Lints Postgres migrations, a Debezium connector config and the sink schema against each other, and fails the pull request that would silently drop a CDC column.
 - [dtle](https://github.com/actiontech/dtle) - Distributed Data Transfer Service for MySQL.
 - [Litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [pgsync](https://github.com/ankane/pgsync) - Sync PostgreSQL data between databases.
