@@ -116,6 +116,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [psequel](http://www.psequel.com) - Provides a clean and simple interface for you to perform common PostgreSQL tasks quickly.
 - [PopSQL](https://popsql.com) - Modern, collaborative SQL editor for your team.
 - [Postico](https://eggerapps.at/postico) - A Modern PostgreSQL Client for the Mac.
+- [QuelPad](https://quelpad.com) - TypeScript-first analytical scratchpad for PostgreSQL, MySQL, SQLite, MSSQL and their cloud variants — query, transform and chart with typed scripts, or ask in plain English. Local-first, for macOS and Windows.
 - [Robo 3T](https://github.com/Studio3T/robomongo) - Shell-centric cross-platform MongoDB management tool.
 - [Sequel Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS.
 - [Sequel Pro](https://github.com/sequelpro/sequelpro) - Fast, easy-to-use Mac database management application for working with MySQL & MariaDB databases.
