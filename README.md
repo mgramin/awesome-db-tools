@@ -355,6 +355,7 @@ Low-code and no-code platforms for application building
 
 ### Analyzers
 - [Holistic.dev](https://holistic.dev) - Automatic detection service for database performance, security, and architecture issues.
+- [provensql](https://github.com/nac7/provensql) - Sound-by-construction SQL equivalence checker: decides whether a rewrite preserves results (proof), disproves it with a re-executed counterexample, or abstains — never a false EQUIVALENT. Also decides rewrites under IEEE-754 rounding and runtime-error (NULL/ERROR) semantics.
 - [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
 - [SQLLineage](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
