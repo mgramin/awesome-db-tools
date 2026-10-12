@@ -257,6 +257,7 @@ Low-code and no-code platforms for application building
 
 ## Monitoring/Statistics/Performance
 - [ASH Viewer](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
+- [Culprit SQL Studio](https://github.com/cristipufu/culprit-sql-studio) - Desktop app, CLI and MCP server that finds slow queries, plan regressions and missing indexes on SQL Server, PostgreSQL, MySQL and MariaDB.
 - [Metis](https://www.metisdata.io/product/troubleshooting) - Provides observability and performance tuning for SQL databases.
 - [Monyog](https://www.webyog.com/product/monyog) - Agentless & Cost-effective MySQL Monitoring Tool.
 - [mssql-monitoring](https://github.com/microsoft/mssql-monitoring) - Monitor your SQL Server on Linux performance using collectd, InfluxDB and Grafana.
