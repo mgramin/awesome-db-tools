@@ -276,6 +276,7 @@ Low-code and no-code platforms for application building
 - [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - New-generation diagnostics tool that allows users to do a deep analysis of the health of PostgreSQL databases.
 - [Promscale](https://github.com/timescale/promscale) - The open-source observability backend for metrics and traces powered by SQL.
 - [Releem](https://releem.com) - Performance monitoring and optimization tool for MySQL & MariaDB that delivers actionable insights and safe automation for misconfigurations, slow queries, schema issues, and deadlocks, reducing manual work at scale.
+- [SolidPing](https://github.com/fclairamb/solidping) - Open-source uptime monitor that connects to PostgreSQL, MySQL, SQL Server, Oracle, ClickHouse, MongoDB and Redis and alerts when a check fails.
 - [Telegraf PostgreSQL plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/postgresql) - Provides metrics for your PostgreSQL database.
 
 ### Prometheus
