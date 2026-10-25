@@ -123,6 +123,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [sqlite-tui](https://github.com/mathaou/sqlite-tui) - A TUI for viewing SQLite databases, written in Go.
 - [sqlpad](https://github.com/rickbergfalk/sqlpad) - Web-based SQL editor run in your own private cloud.
 - [SQLPro](https://www.macpostgresclient.com) - A simple, powerful PostgreSQL manager for macOS.
+- [SQLly](https://sqlly.app) - Cross-platform SQL client with SQL IntelliSense and schema intelligence 💰 🔒.
 - [SQuirreL](https://sourceforge.net/projects/squirrel-sql) - Graphical SQL client written in Java that will allow you to view the structure of a JDBC compliant database, browse the data in tables, issue SQL commands etc.
 - [SQLTools](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
 - [SQLyog](https://www.webyog.com/product/sqlyog) - The most complete and easy to use MySQL GUI.
