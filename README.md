@@ -127,6 +127,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [SQLTools](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode.
 - [SQLyog](https://www.webyog.com/product/sqlyog) - The most complete and easy to use MySQL GUI.
 - [Tabix](https://github.com/tabixio/tabix) - SQL Editor & Open source simple business intelligence for Clickhouse.
+- [Tabularis](https://github.com/TabularisDB/tabularis) - Open-source SQL client for PostgreSQL, MySQL, SQLite and plugin-based databases, with notebooks and visual query plans.
 - [TablePlus](https://github.com/TablePlus/TablePlus) - Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.
 - [TeamPostgreSQL](http://www.teampostgresql.com) - PostgreSQL Web Administration GUI - use your PostgreSQL databases from anywhere, with rich, lightning-fast AJAX web interface.
 - [Query.me](https://query.me) - Collaborative SQL editor in Notebook format. Let's you reference query results using JINJA, visualize data, and schedule runs and exports.
