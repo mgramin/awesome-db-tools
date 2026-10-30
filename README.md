@@ -255,7 +255,8 @@ Low-code and no-code platforms for application building
 - [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
 
 
-## Monitoring/Statistics/Performance
+## Monitoring/Statistics/Perfomance
+- [AI SQL Tuner Studio](https://aisqltuner.com) – AI-assisted SQL Server tuning tool that analyzes workloads, detects performance issues, and generates server, index, and code optimization recommendations.
 - [ASH Viewer](https://github.com/akardapolov/ASH-Viewer) - Provides a graphical view of active session history data within the Oracle and PostgreSQL DB.
 - [Metis](https://www.metisdata.io/product/troubleshooting) - Provides observability and performance tuning for SQL databases.
 - [Monyog](https://www.webyog.com/product/monyog) - Agentless & Cost-effective MySQL Monitoring Tool.
