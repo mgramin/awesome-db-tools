@@ -333,6 +333,7 @@ Low-code and no-code platforms for application building
 
 ## Reporting
 - [Chartbrew](https://chartbrew.com) - Create live dashboards, charts, and client reports from multiple databases and services.
+- [MAD Designer](https://github.com/mthomason/MAD) - Ad-hoc SQL query builder, banded report designer, and headless rendering engine for PostgreSQL, MySQL/MariaDB, SQL Server, and SQLite.
 - [Poli](https://github.com/shzlw/poli) - An easy-to-use SQL reporting application built for SQL lovers.
 
 
