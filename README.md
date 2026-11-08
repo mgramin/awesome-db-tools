@@ -404,6 +404,7 @@ Run SQL queries against anything
 - [dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [MAT Calcite plugin](https://github.com/vlsi/mat-calcite-plugin) - This plugin for Eclipse Memory Analyzer allows to query heap dump via SQL.
 - [OctoSQL](https://github.com/cube2222/octosql) - Query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+- [Opteryx](https://github.com/mabel-dev/opteryx-core) - Embeddable SQL engine for Parquet, CSV and JSONL files on disk, GCS, S3 or HTTP, also run as a hosted service at opteryx.app.
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics.
 - [Resmo](https://www.resmo.com) - Audit and evaluate resources using SQL.
 - [sq](https://github.com/neilotoole/sq) - Command line tool that provides jq-style access to structured data sources: SQL databases, or document formats like CSV or Excel. It is the lovechild of sql+jq.
