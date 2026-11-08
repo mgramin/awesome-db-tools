@@ -80,6 +80,7 @@ For updates on `awesome-db-tools` and thoughts/news about databases/tools/SQL fo
 - [MySQL Workbench](https://www.mysql.com/products/workbench) - Unified visual tool for database architects, developers, and DBAs.
 - [Navicat](https://www.navicat.com/en/products#navicat) - A database development tool that allows you to simultaneously connect to MySQL, MariaDB, SQL Server, Oracle, PostgreSQL, and SQLite databases from a single application 💰 🔒.
 - [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer) - Free, integrated development environment that simplifies the development and management of Oracle Database in both traditional and Cloud deployments 🔒.
+- [OrcaQ](https://github.com/cin12211/orca-q) - Open-source database editor for PostgreSQL, MySQL, SQL Server, Oracle, SQLite, DuckDB, Redis and MongoDB, with ERD, schema diff and a built-in MCP server.
 - [pgAdmin](https://www.pgadmin.org) - The most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world.
 - [pgAdmin3](https://www.bigsql.org/pgadmin3) - Long Term Support for pgAdmin3.
 - [PL/SQL Developer](https://www.allroundautomations.com/products/pl-sql-developer) - IDE that is specifically targeted at the development of stored program units for Oracle Databases 💰 🔒.
