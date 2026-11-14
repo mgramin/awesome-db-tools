@@ -423,6 +423,7 @@ Learning and puzzles for SQL
 - [Learn SQL in a Month of Lunches](https://www.manning.com/books/learn-sql-in-a-month-of-lunches) - A book about how to use SQL to retrieve, filter, and analyze data.
 - [LeetCode](https://leetcode.com/problemset/database) - Enhance your skills, expand your knowledge and prepare for technical interviews.
 - [Select Star SQL](https://selectstarsql.com) - Free interactive book which aims to be the best place on the internet for learning SQL.
+- [SQLMaxx Learn](https://sqlmaxx.com/learn-sql/) - Free SQL course with 66 interactive lessons that run on PostgreSQL in the browser.
 - [StrataScratch](https://www.stratascratch.com/blog/categories/sql) - Data science educational resources.
 - [SQL Murder Mystery](https://github.com/NUKnightLab/sql-mysteries) - Self-directed lesson to learn SQL concepts and commands and a fun game for experienced SQL users to solve an intriguing crime.
 
