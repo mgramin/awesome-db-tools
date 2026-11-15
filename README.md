@@ -229,6 +229,7 @@ Building API for your Data
 - [sandman2](https://github.com/jeffknupp/sandman2) - Automatically generate a RESTful API service for your legacy database.
 - [soul](https://github.com/thevahidal/soul) - Automatic SQLite RESTful and realtime API server.
 - [VulcanSQL](https://github.com/Canner/vulcan-sql) - Write templated SQL to automatically exposing RESTful APIs from your database/data warehouse/data lake.
+- [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory and hosted MCP server (`https://nostairsplease.com/mcp`) for querying venue accessibility and tour routing.
 
 ## Application platforms
 Low-code and no-code platforms for application building
