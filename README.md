@@ -364,6 +364,7 @@ Low-code and no-code platforms for application building
 - [sqlc](https://sqlc.dev) - SQL-first code generator producing type-safe bindings for various languages and various databases.
 - [SQLDelight](https://sqldelight.github.io/sqldelight) - SQL-first code generator producing type-safe bindings for Kotlin and various databases.
 - [pGenie](https://pgenie.io) - SQL-first code generator producing type-safe bindings for various languages and specializing on the PostgreSQL database.
+- [Reylo](https://github.com/reylosql/reylo) - SQL-first type inference for TypeScript, reading each query's parameter and result types from Postgres, MySQL or SQLite, with no generated code.
 
 ### Extensions
 - [PartiQL](https://partiql.org) - SQL-compatible access to relational, semi-structured, and nested data.
