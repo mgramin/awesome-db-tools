@@ -358,6 +358,7 @@ Low-code and no-code platforms for application building
 - [SQLCheck](https://github.com/jarulraj/sqlcheck) - Automatically detects common SQL anti-patterns.
 - [SQLFluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and configurable SQL linter.
 - [SQLLineage](https://github.com/reata/sqllineage) - SQL Lineage Analysis Tool powered by Python.
+- [Surinch SQL Read-only Review](https://surinch.com/en/tools/sql-readonly-review) - Free browser-based SQL read-only safety gate and anti-pattern linter for PostgreSQL and MySQL 🔒.
 - [TSQLLint](https://github.com/tsqllint/tsqllint) - A tool for describing, identifying, and reporting the presence of anti-patterns in TSQL scripts.
 
 ### Code Generators
@@ -429,6 +430,7 @@ Learning and puzzles for SQL
 ### Plan
 - [pev2](https://github.com/dalibo/pev2) - A Vue.js component to show a graphical visualization of a PostgreSQL execution plan.
 - [pg_flame](https://github.com/mgartner/pg_flame) - A flamegraph generator for PostgreSQL `EXPLAIN ANALYZE` output.
+- [Surinch SQL EXPLAIN Visualizer](https://surinch.com/en/tools/sql-explain) - Free client-side PostgreSQL and MySQL `EXPLAIN` / `EXPLAIN ANALYZE` visualizer and SQL formatter 🔒.
 
 ### Scripts
 Useful SQL-scripts for various purposes
