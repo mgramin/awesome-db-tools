@@ -314,6 +314,7 @@ Low-code and no-code platforms for application building
 
 ## Kubernetes
 - [KubeDB](https://kubedb.com) - Making running production-grade databases easy on Kubernetes.
+- [OpenEverest](https://github.com/openeverest/openeverest) - Open-source, self-hosted database-as-a-service platform for Kubernetes with a web UI and API to provision, scale, back up and restore PostgreSQL, MySQL, MongoDB and other databases on any cloud or on-premises.
 - [PostgreSQL operator](https://github.com/zalando/postgres-operator) - The PostgreSQL Operator enables highly-available PostgreSQL clusters on Kubernetes (Kubernetes) powered by Patroni.
 - [Spilo](https://github.com/zalando/spilo) - HA PostgreSQL Clusters with Docker.
 - [StackGres](https://gitlab.com/ongresinc/stackgres) - Enterprise-grade, Full Stack PostgreSQL on Kubernetes.
