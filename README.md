@@ -253,6 +253,7 @@ Low-code and no-code platforms for application building
 - [Database Lab Engine](https://gitlab.com/postgres-ai/database-lab) - Instant thin cloning for PostgreSQL to scale the development process.
 - [clone_schema](https://github.com/denishpatel/pg-clone-schema) - PostgreSQL clone schema utility without need of going outside of database.
 - [Spawn](https://spawn.cc/) - Cloud service for creating instant database copies for development and CI. No more local db installs, instant recovery to arbitrary save points, isolated copies for each feature branch or test. Instant provisioning regardless of database size.
+- [pgclone](https://github.com/valehdba/pgclone) - PostgreSQL extension to clone tables, schemas and databases between hosts from SQL, with in-flight data masking and table import from Oracle, SQL Server and MySQL.
 
 
 ## Monitoring/Statistics/Performance
